@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:0 group-title="International;Religion" tvg-name="Aghapy tv" tvg-logo="https://www.freeetv.com/images/01_logo/aghapy_tv.jpg" ,Aghapy tv
+https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/chunklist_w768730167_b1400000_slar_t64SEQ=.m3u8
+#EXTINF:0 group-title="Movies" tvg-name="al hayat tv" tvg-logo="https://www.freeetv.com/images/01_logo/aghapy_tv.jpg" ,al hayat tv
+https://wowzaprod140-i.akamaihd.net/hls/live/750788/7552102e/7552102e_1_1000000/chunklist.m3u8
+#EXTINF:0 group-title="Movies" tvg-name="al kahra wal nas" tvg-logo="https://i.ibb.co/2WTnGXn/Download-1.jpg" ,al kahra wal nas
+https://youtube.com/watch?v=TdGWadq6DrY
+#EXTINF:0 group-title="Movies" tvg-name="al kahra wal nas2" tvg-logo="https://i.ibb.co/54DqLSc/Download-2.jpg" ,al kahra wal nas2
+https://www.youtube.com/watch?v=AVDe18J_uRM
+#EXTINF:0 group-title="International;Religion" tvg-name="ALKARMA TV FAMILY" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alkarma-tv-family-us.png" ,ALKARMA TV FAMILY
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaNA2.smil/chunklist_w998467759_b2328000_slar.m3u8
+#EXTINF:0 group-title="International;Religion" tvg-name="ALKARMA TV MIDDLE EAST" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alkarma-tv-middle-east-us.png" ,ALKARMA TV MIDDLE EAST
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame1.smil/chunklist_w1660557871_b2328000_slar.m3u8
+#EXTINF:0 group-title="Kids" tvg-name="Cartoon Network Arabic" tvg-logo="https://banner2.cleanpng.com/20180402/gde/kisspng-cartoon-network-logo-television-channel-cartoon-network-5ac27edee46144.5088358615226959029355.jpg" ,Cartoon Network Arabic
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_6.m3u8
+#EXTINF:0 group-title="Movies" tvg-name="CBC" tvg-logo="https://i.ibb.co/Z1JGP0Z/cbc.png" ,CBC
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1624906963/ei/c8jZYPmzK8HLj-8PsJ-R6AU/ip/2a02:908:1963:2d40:e56e:6cb4:615a:cb51/id/ifN6YWdLUlk.1/source/yt_live_broadcast/requiressl/yes/tx/24011361/txs/24011361%2C24011362%2C24011363/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgLQuVnvio2qNYzCkqRF278MBijwMbukeL0KK4HXEybuECIQCsP69EmjwdVxTjxwaB8QNrdVqMyGAGBbmUAUv4EWel-g%3D%3D/file/index.m3u8
+#EXTINF:0 group-title="Movies" tvg-name="CBC drama" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/CBCDrama.png" ,CBC drama
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1624907308/ei/zMnZYKuSHcybgAeh25zYCg/ip/2a02:908:1963:2d40:e56e:6cb4:615a:cb51/id/qO3kOHmQKsw.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJ7ElCiV0c05Azq2lmFImXedXjlcQXtYd3Om9MxWdSA9AiBErZH-2UZhR0LKE5mE43JmMGj_BcrhnBQHhhxqKHK3nA%3D%3D/file/index.m3u8
+#EXTINF:0 group-title="Movies" tvg-name="CBC Extra" tvg-logo="https://i.ibb.co/TgRMsWw/Download.jpg" ,CBC Extra
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1624908432/ei/MM7ZYJSSMIeE6dsPncS34AY/ip/2a02:908:1963:2d40:e56e:6cb4:615a:cb51/id/qO3kOHmQKsw.1/source/yt_live_broadcast/requiressl/yes/tx/24034803/txs/24034803%2C24034804%2C24034805/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPDg46E71sTtW2pa8i6lYUIlVAzGkjVgZAA_d2VKmGroAiADDpPa2ZopHFeH_SRnyFdyOGGLN6NCPHpltzqVsvR_Og%3D%3D/file/index.m3u8
+#EXTINF:0 group-title="International;Religion" tvg-name="CTV" tvg-logo="http://www.ctvchannel.tv/Images/Page/Logo.png" ,CTV
+https://5d658d7e9f562.streamlock.net/ctvchannel.tv/ctv.smil/chunklist_w2107881819_b728000_slar_t64U0Q=.m3u8
+#EXTINF:0 group-title="Movies" tvg-name="dmc" tvg-logo="https://i.ibb.co/FK2WhDk/Download.jpg" ,dmc
+http://188.138.41.41:8080/live/E9T6WjqMMC/nvomCmAkEm/156.m3u8?token=QkEKBxFeQAkSVQ0NVwJUUVUNBAxUVg1VAVcLBg0HB1gKU1NXAQUBAlFBFRpGRhQEUVg5UVVGAgFWVBQQQUAGS2YKBkRYFFERHEFNUVhXRFsAGURIWAAaCkFQCAsGC0EVGwYaEgdEDFJcPF1dQ1sFBBIPCE1dCBQSDAxnVlFeAlddQVhEUhROEVkQSRoPXBMNXBlEWlgQSlEXBxoIFgFRCA9BTkQBWRddRBFAGg8QMzISGURdSRBdXhALV1wWCUFUChZaRE4UC0BvEVxLQUADAF1QFBoLRggST0BVU0xsAFZXDQcFFl8NXUNBAxoFEEpDXVoIUUULSm8TC1wQDhFSAAlXU0Qf
+#EXTINF:0 group-title="Movies" tvg-name="dmc drama" tvg-logo="https://i.ibb.co/FK2WhDk/Download.jpg" ,dmc drama
+http://188.138.41.41:8080/live/E9T6WjqMMC/nvomCmAkEm/33.m3u8?token=QkEKBxFeQAkSBQ9cAlNUUAUEVAsEAVoHUltZUFYGBQwBV1tQVFVVAgJBFRpGRhQEUVg5UVVGAgNQThpHR1YRZlAHQFxABUAfEhdQVVAQXFEcFxZRVUYCElFbDwIDEU8bXBsWAxBYA19vB1xOXFEDQwpbE1RdSBpfDT1cV1lSDV0bWUBWQBpAWkMTGwJbRwoNHBcEUUUWWUQGQAIQBgFUABtPQAUNQwxHQhobAhdnNUMcFwNARQFWQwoNVhAOEQ4KTFtASkBfEWxCBkpMR1cHDFVHRAITVBocQQ9ZSmtQDFdXBgESC1kMQBJZGwgXHkQMX1sPTF4WZ0AKBhoIFgJaCwtQQBs=
+#EXTINF:0 group-title="Undefined" tvg-name="MBC" tvg-logo="https://i.imgur.com/eKBXOKd.png" ,MBC
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_4.m3u8
+#EXTINF:0 group-title="Movies" tvg-name="MBC 2" tvg-logo="https://i.imgur.com/KXuzL1u.png" ,MBC 2
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_7.m3u8
+#EXTINF:0 group-title="Undefined" tvg-name="MBC 3" tvg-logo="https://i.imgur.com/FVNVC73.png" ,MBC 3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_7.m3u8
+#EXTINF:0 group-title="Undefined" tvg-name="MBC 4" tvg-logo="https://i.imgur.com/pfF61uH.png" ,MBC 4
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_7.m3u8
+#EXTINF:0 group-title="Undefined" tvg-name="MBC 5" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" ,MBC 5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_7.m3u8
+#EXTINF:0 group-title="Movies" tvg-name="MBC Action" tvg-logo="https://i.imgur.com/n3TgfP0.png" ,MBC Action
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 group-title="Entertainment" tvg-name="MBC Bollywood" tvg-logo="https://i.imgur.com/fMjhK06.png" ,MBC Bollywood
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 group-title="Movies" tvg-name="MBC Drama" tvg-logo="https://www.parsatv.com/index_files/channels/mbcdrama.png" ,MBC Drama
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_4.m3u8
+#EXTINF:0 group-title="Movies" tvg-name="MBC Drama+" tvg-logo="https://media.elcinema.com/tvguide/1131_1.png" ,MBC Drama+
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_7.m3u8
+#EXTINF:0 group-title="Movies" tvg-name="MBC Egypt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MBC_Masr_Logo.png/280px-MBC_Masr_Logo.png" ,MBC Egypt
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_4.m3u8
+#EXTINF:0 group-title="Movies" tvg-name="MBC Egypt 2" tvg-logo="https://www.tunisvista.com/medias/mbc-masr-2-tv-live-online-streaming.png" ,MBC Egypt 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_4.m3u8
+#EXTINF:0 group-title="Undefined" tvg-name="MBC Iraq" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-iraq-ae-iq.png" ,MBC Iraq
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 group-title="Movies" tvg-name="MBC Max HD" tvg-logo="https://i.imgur.com/X6EliFm.png" ,MBC Max HD
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 group-title="Movies" tvg-name="Rotana Cinema HD" tvg-logo="https://static.filmon.com/assets/channels/2615/extra_big_logo.png" ,Rotana Cinema HD
+https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_7.m3u8
+#EXTINF:0 group-title="Movies" tvg-name="Rotana Cinema HD KSA" tvg-logo="http://livetvscreen.com/wp-content/uploads/2012/07/Rotana-Clip.jpg" ,Rotana Cinema HD KSA
+https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index_4.m3u8
+#EXTINF:0 group-title="Movies" tvg-name="Rotana Classic" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/classic.png" ,Rotana Classic
+https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index_7.m3u8
+#EXTINF:0 group-title="Movies" tvg-name="Rotana Kids" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/kids.png" ,Rotana Kids
+https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_7.m3u8
+#EXTINF:0 group-title="Kids" tvg-name="spacetoon" tvg-logo="https://i.imgur.com/RzPOwqI.png" ,spacetoon
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w1322169554_b946000_slAR.m3u8
