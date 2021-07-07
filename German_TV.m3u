@@ -23,7 +23,7 @@ rtsp://192.168.178.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 rtsp://192.168.178.1:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,6000,6010,1176,2172,2173,5108,6020,6021,6022,6030,6031,6070
 #EXTINF:0 group-title="Movies" tvg-name="Deutsches Musik Fer" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,Deutsches Musik Fer
 rtsp://192.168.178.1:554/?avm=1&freq=266&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,269,633,634,638
-#EXTINF:0 group-title="Movies" tvg-name="Disney SD" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,Disney SD
+#EXTINF:0 group-title="Movies" tvg-name="Disney" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png" ,Disney
 rtsp://192.168.178.1:554/?avm=1&freq=210&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,263,573,574,578
 #EXTINF:0 group-title="Movies" tvg-name="DMAX" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,DMAX
 rtsp://192.168.178.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,260,543,544,548,1621
@@ -31,8 +31,6 @@ rtsp://192.168.178.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 rtsp://192.168.178.1:554/?avm=1&freq=290&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,275,633,694
 #EXTINF:0 group-title="Movies" tvg-name="EUROSPORT 1" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,EUROSPORT 1
 rtsp://192.168.178.1:554/?avm=1&freq=218&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,264,583,584,588
-#EXTINF:0 group-title="Movies" tvg-name="k-tv" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,k-tv
-rtsp://192.168.178.1:554/?avm=1&freq=298&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,261,553,554
 #EXTINF:0 group-title="Movies" tvg-name="kabel eins" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,kabel eins
 rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,263,573,574,578,1711
 #EXTINF:0 group-title="Movies" tvg-name="kabel eins Doku" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,kabel eins Doku
@@ -85,9 +83,9 @@ rtsp://192.168.178.1:554/?avm=1&freq=186&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 rtsp://192.168.178.1:554/?avm=1&freq=346&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,261,553,554,558,1651
 #EXTINF:0 group-title="Movies" tvg-name="VOX" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,VOX
 rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,261,553,554,558,1641,1651,1652,1653
-#EXTINF:0 group-title="Movies" tvg-name="VOXup" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,VOXup
+#EXTINF:0 group-title="Movies" tvg-name="VOXup" tvg-logo="https://images.mediabiz.de/s/das-logo-des-neuen-senders-voxup/newspics/959/445959_1/b2780x1450.jpg" ,VOXup
 rtsp://192.168.178.1:554/?avm=1&freq=290&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,276,703,704,708,2101,2102,2103
-#EXTINF:0 group-title="Movies" tvg-name="WELT" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,WELT
+#EXTINF:0 group-title="Movies" tvg-name="WELT" tvg-logo="https://www.welt.de/assets/images/global/welt_brand-dd869f0cab.png" ,WELT
 rtsp://192.168.178.1:554/?avm=1&freq=218&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,267,613,614,618
 #EXTINF:0 group-title="Movies" tvg-name="ZDF HD" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,ZDF HD
 rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,6100,6110,6120,6121,6122,6123,6130,6131,6170
