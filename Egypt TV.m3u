@@ -14,11 +14,11 @@ https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame1.smil/chunklist_w16
 #EXTINF:0 group-title="Kids" tvg-name="Cartoon Network Arabic" tvg-logo="https://banner2.cleanpng.com/20180402/gde/kisspng-cartoon-network-logo-television-channel-cartoon-network-5ac27edee46144.5088358615226959029355.jpg" ,Cartoon Network Arabic
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_6.m3u8
 #EXTINF:0 group-title="Movies" tvg-name="CBC" tvg-logo="https://i.ibb.co/Z1JGP0Z/cbc.png" ,CBC
-https://www.youtube.com/watch?v=b9MjdDJq_fc
+https://www.youtube.com/watch?v=phZqstvb1-c
 #EXTINF:0 group-title="Movies" tvg-name="CBC drama" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/CBCDrama.png" ,CBC drama
-https://www.youtube.com/watch?v=z8JbxS6ZGu4
+https://www.youtube.com/watch?v=dKkZURPBOx4
 #EXTINF:0 group-title="Movies" tvg-name="CBC Extra" tvg-logo="https://i.ibb.co/TgRMsWw/Download.jpg" ,CBC Extra
-https://www.youtube.com/watch?v=CldFnLGZEvI
+https://www.youtube.com/watch?v=QfwdrueMXME
 #EXTINF:0 group-title="International;Religion" tvg-name="CTV" tvg-logo="http://www.ctvchannel.tv/Images/Page/Logo.png" ,CTV
 https://5d658d7e9f562.streamlock.net/ctvchannel.tv/ctv.smil/chunklist_w2107881819_b728000_slar_t64U0Q=.m3u8
 #EXTINF:0 group-title="Movies" tvg-name="dmc" tvg-logo="https://i.ibb.co/FK2WhDk/Download.jpg" ,dmc
@@ -51,6 +51,8 @@ https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/i
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 group-title="Movies" tvg-name="MBC Max HD" tvg-logo="https://i.imgur.com/X6EliFm.png" ,MBC Max HD
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 group-title="Movies" tvg-name="on drama" tvg-logo="https://media.elcinema.com/tvguide/1134_1.png" ,on drama
+http://62.210.250.215:8080/live/ox7QipfwiD/rutXQLWFhx/8.m3u8?token=HxANBRVRFwJHUAFXV1FXU1JTVgtYUwNZBloFWQEFAg4GVlEAVwAAWQAQHhZCERYGAlxvUAUQCllJG0USXUNtUAAQX0ZXGxkaEVtfURNfVE9BQVldQwgSVl0BBUMUE1dBEFcXCgdValwARFtXVEdeDRZdXBVDXV4+AVxdAFZVEANGAkdIRFBGSEcIXEFdCUhBAVhESwBGVUNfGwlQDhMeGwddEAoSS0waXxBnZxNJRgYbRVVXEltfD0cDEgwLRAobSBAMFzlLUEsRQFdVXAAWQVkTABtNEF0AHWZTDlZfV1oQWwoKFRsPGlUQHhZcCgoKF15CZhFbVENfGwJYDgkKGxk=
 #EXTINF:0 group-title="Movies" tvg-name="Rotana Cinema HD" tvg-logo="https://static.filmon.com/assets/channels/2615/extra_big_logo.png" ,Rotana Cinema HD
 https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_7.m3u8
 #EXTINF:0 group-title="Movies" tvg-name="Rotana Cinema HD KSA" tvg-logo="http://livetvscreen.com/wp-content/uploads/2012/07/Rotana-Clip.jpg" ,Rotana Cinema HD KSA
