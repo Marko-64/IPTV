@@ -53,7 +53,7 @@ rtsp://192.168.178.1:554/?avm=1&freq=210&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 rtsp://192.168.178.1:554/?avm=1&freq=114&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,261,553,554,555,558,1651,1652
 #EXTINF:0 group-title="Movies" tvg-name="ProSieben" tvg-logo="https://tv.avm.de/tvapp/logos/prosieben.png" ,ProSieben
 rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,260,543,544,546,548,1621
-#EXTINF:0 group-title="Movies" tvg-name="ProSieben MAXX" tvg-logo="https://tv.avm.de/tvapp/logos/prosieben maxx.png" ,ProSieben MAXX
+#EXTINF:0 group-title="Movies" tvg-name="ProSieben MAXX" tvg-logo="https://tv.avm.de/tvapp/logos/prosieben_maxx.png" ,ProSieben MAXX
 rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,267,613,614,618,1831
 #EXTINF:0 group-title="Movies" tvg-name="RTL" tvg-logo="https://tv.avm.de/tvapp/logos/rtl.png" ,RTL
 rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,258,523,524,525,528,1551,1561,1562,1563
