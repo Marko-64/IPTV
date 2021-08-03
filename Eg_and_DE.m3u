@@ -1,157 +1,171 @@
 #EXTM3U
-#EXTINF:0 group-title="International;Religion" tvg-name="(EGY) Aghapy tv" tvg-logo="https://www.freeetv.com/images/01_logo/aghapy_tv.jpg" ,Aghapy tv
+#EXTINF:0 group-title="Religion" tvg-name="Aghapy tv" tvg-logo="https://www.freeetv.com/images/01_logo/aghapy_tv.jpg" ,Aghapy tv
 https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/chunklist_w768730167_b1400000_slar_t64SEQ=.m3u8
-#EXTINF:0 group-title="Movies" tvg-name="(EGY) al hayat tv" tvg-logo="https://www.freeetv.com/images/01_logo/aghapy_tv.jpg" ,al hayat tv
+#EXTINF:0 group-title="Movies" tvg-name="al hayat tv" tvg-logo="https://www.freeetv.com/images/01_logo/aghapy_tv.jpg" ,al hayat tv
 https://wowzaprod140-i.akamaihd.net/hls/live/750788/7552102e/7552102e_1_1000000/chunklist.m3u8
-#EXTINF:0 group-title="Movies" tvg-name="(EGY) al kahra wal nas" tvg-logo="https://i.ibb.co/2WTnGXn/Download-1.jpg" ,al kahra wal nas
-https://www.youtube.com/watch?v=TdGWadq6DrY
-#EXTINF:0 group-title="Movies" tvg-name="(EGY) al kahra wal nas2" tvg-logo="https://i.ibb.co/54DqLSc/Download-2.jpg" ,al kahra wal nas2
-https://www.youtube.com/watch?v=AVDe18J_uRM
-#EXTINF:0 group-title="International;Religion" tvg-name="(EGY) ALKARMA TV FAMILY" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alkarma-tv-family-us.png" ,ALKARMA TV FAMILY
+#EXTINF:0 group-title="Movies" tvg-name="al kahra wal nas" tvg-logo="https://i.ibb.co/2WTnGXn/Download-1.jpg" ,al kahra wal nas
+https://youtu.be/hSzkVBVHuTM
+#EXTINF:0 group-title="Movies" tvg-name="al kahra wal nas2" tvg-logo="https://i.ibb.co/54DqLSc/Download-2.jpg" ,al kahra wal nas2
+https://youtu.be/2ZNCSuVgGhY
+#EXTINF:0 group-title="Religion" tvg-name="ALKARMA TV FAMILY" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alkarma-tv-family-us.png" ,ALKARMA TV FAMILY
 https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaNA2.smil/chunklist_w998467759_b2328000_slar.m3u8
-#EXTINF:0 group-title="International;Religion" tvg-name="(EGY) ALKARMA TV MIDDLE EAST" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alkarma-tv-middle-east-us.png" ,ALKARMA TV MIDDLE EAST
+#EXTINF:0 group-title="Religion" tvg-name="ALKARMA TV MIDDLE EAST" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alkarma-tv-middle-east-us.png" ,ALKARMA TV MIDDLE EAST
 https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame1.smil/chunklist_w1660557871_b2328000_slar.m3u8
-#EXTINF:0 group-title="Kids" tvg-name="(EGY) Cartoon Network Arabic" tvg-logo="https://banner2.cleanpng.com/20180402/gde/kisspng-cartoon-network-logo-television-channel-cartoon-network-5ac27edee46144.5088358615226959029355.jpg" ,Cartoon Network Arabic
+#EXTINF:0 group-title="Kids" tvg-name="Cartoon Network Arabic" tvg-logo="https://i.ibb.co/Ln2wdn7/cartoon-network-logo.jpg" ,Cartoon Network Arabic
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_6.m3u8
-#EXTINF:0 group-title="Movies" tvg-name="(EGY) CBC" tvg-logo="https://i.ibb.co/Z1JGP0Z/cbc.png" ,CBC
-https://www.youtube.com/watch?v=b9MjdDJq_fc
-#EXTINF:0 group-title="Movies" tvg-name="(EGY) CBC drama" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/CBCDrama.png" ,CBC drama
-https://www.youtube.com/watch?v=z8JbxS6ZGu4
-#EXTINF:0 group-title="Movies" tvg-name="(EGY) CBC Extra" tvg-logo="https://i.ibb.co/TgRMsWw/Download.jpg" ,CBC Extra
-https://www.youtube.com/watch?v=CldFnLGZEvI
-#EXTINF:0 group-title="International;Religion" tvg-name="(EGY) CTV" tvg-logo="http://www.ctvchannel.tv/Images/Page/Logo.png" ,CTV
+#EXTINF:0 group-title="Movies" tvg-name="CBC" tvg-logo="https://i.ibb.co/Z1JGP0Z/cbc.png" ,CBC
+https://youtu.be/phZqstvb1-c
+#EXTINF:0 group-title="Movies" tvg-name="CBC drama" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/CBCDrama.png" ,CBC drama
+https://youtu.be/fAWu7fQsO28
+#EXTINF:0 group-title="Movies" tvg-name="CBC Extra" tvg-logo="https://i.ibb.co/TgRMsWw/Download.jpg" ,CBC Extra
+https://youtu.be/10tpfK0Fx_w
+#EXTINF:0 group-title="Religion" tvg-name="CTV" tvg-logo="http://www.ctvchannel.tv/Images/Page/Logo.png" ,CTV
 https://5d658d7e9f562.streamlock.net/ctvchannel.tv/ctv.smil/chunklist_w2107881819_b728000_slar_t64U0Q=.m3u8
-#EXTINF:0 group-title="Movies" tvg-name="(EGY) dmc" tvg-logo="https://i.ibb.co/FK2WhDk/Download.jpg" ,dmc
-http://188.138.41.41:8080/live/E9T6WjqMMC/nvomCmAkEm/156.m3u8?token=QkEKBxFeQAkSVQ0NVwJUUVUNBAxUVg1VAVcLBg0HB1gKU1NXAQUBAlFBFRpGRhQEUVg5UVVGAgFWVBQQQUAGS2YKBkRYFFERHEFNUVhXRFsAGURIWAAaCkFQCAsGC0EVGwYaEgdEDFJcPF1dQ1sFBBIPCE1dCBQSDAxnVlFeAlddQVhEUhROEVkQSRoPXBMNXBlEWlgQSlEXBxoIFgFRCA9BTkQBWRddRBFAGg8QMzISGURdSRBdXhALV1wWCUFUChZaRE4UC0BvEVxLQUADAF1QFBoLRggST0BVU0xsAFZXDQcFFl8NXUNBAxoFEEpDXVoIUUULSm8TC1wQDhFSAAlXU0Qf
-#EXTINF:0 group-title="Movies" tvg-name="(EGY) dmc drama" tvg-logo="https://i.ibb.co/FK2WhDk/Download.jpg" ,dmc drama
-http://188.138.41.41:8080/live/E9T6WjqMMC/nvomCmAkEm/33.m3u8?token=QkEKBxFeQAkSBQ9cAlNUUAUEVAsEAVoHUltZUFYGBQwBV1tQVFVVAgJBFRpGRhQEUVg5UVVGAgNQThpHR1YRZlAHQFxABUAfEhdQVVAQXFEcFxZRVUYCElFbDwIDEU8bXBsWAxBYA19vB1xOXFEDQwpbE1RdSBpfDT1cV1lSDV0bWUBWQBpAWkMTGwJbRwoNHBcEUUUWWUQGQAIQBgFUABtPQAUNQwxHQhobAhdnNUMcFwNARQFWQwoNVhAOEQ4KTFtASkBfEWxCBkpMR1cHDFVHRAITVBocQQ9ZSmtQDFdXBgESC1kMQBJZGwgXHkQMX1sPTF4WZ0AKBhoIFgJaCwtQQBs=
-#EXTINF:0 group-title="Undefined" tvg-name="(EGY) MBC" tvg-logo="https://i.imgur.com/eKBXOKd.png" ,MBC
+#EXTINF:0 group-title="Movies" tvg-name="dmc" tvg-logo="https://i.ibb.co/FK2WhDk/Download.jpg" ,dmc
+http://62.210.250.215:8080/live/ox7QipfwiD/rutXQLWFhx/49.m3u8?token=HxANBRVRFwJHVgZXVVEFUAUHCFxUC1QHBwgHUAkBAA1TClUGXg8ADgYQHhZCERYGAlxvUAUQClVcFRIUS1RAZg1WR15ECBcUR0ZbWVRHXlNPE0BQBRAKQ1QKBFEJEx4bAUoRARRXVFQ6VldCWAYBQVlfRVUNHhIOC2ZUBFVQXF1GCEdURBUXURZCEA5fEAgPTxNSUBVAURUAGwpDCgUGDEYeRwcJTFtMF0sQDhMwN0FPE1VBFVdeEgxWXkMCE18KEQpHSERQRmcXV0FAQwAFDgZDEgNDAhJNR1RRGWdSXVcKVwYQD1ZbS0cIEAQTSUYODF9ZTQ5AbxEMXRJbGgcDDFYQGA==
+#EXTINF:0 group-title="Movies" tvg-name="dmc drama" tvg-logo="https://i.ibb.co/FK2WhDk/Download.jpg" ,dmc drama
+http://62.210.250.215:8080/live/ox7QipfwiD/rutXQLWFhx/13.m3u8?token=HxANBRVRFwJHAgMGUlcFUQBSUwlRUFNUVg8EAFpVBQsGUwFUUFhTDwMQHhZCERYGAlxvUAUQClBWFRIUS1RAZg1WR15ECBcUR0ZbWVRHXlNPE0BQBRAKQ1cAA1QAEx4bAUoRARRXVFQ6VldCWAYBQVlfRVUNHhIOC2ZUBFVQXF1GCEdURBUXURZCEA5fEAgPTxNSUBVAURUAGwpDAQkFG0gQBgsTV0FKHBAIFmQ2Rk9BVEhNBFxDCApXElsaXAFMXBBJRg9KakoAQUZGVAQJBhETChtREBxDCFhIPlteXFcBURENCVdGGl8QAhYdRwkMDVhEVhNtQAgBGwpDCgIBDVwQGA==
+#EXTINF:0 group-title="Movies" tvg-name="Dubai" tvg-logo="https://i.ibb.co/3TPtqKR/DubaiTV.png" ,Dubai
+https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b1500000.m3u8
+#EXTINF:0 group-title="Movies" tvg-name="Dubai one" tvg-logo="https://pbs.twimg.com/profile_images/1400056457987506176/VBHJWuxE_400x400.jpg" ,Dubai one
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
+#EXTINF:0 group-title="Movies" tvg-name="Dubai Sama" tvg-logo="https://www.samadubai.ae/content/dam/samadubai/icons/sama-dubai.jpg" ,Dubai Sama
+https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b1500000.m3u8
+#EXTINF:0 group-title="Movies" tvg-name="MBC" tvg-logo="https://i.imgur.com/eKBXOKd.png" ,MBC
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_4.m3u8
-#EXTINF:0 group-title="Movies" tvg-name="(EGY) MBC 2" tvg-logo="https://i.imgur.com/KXuzL1u.png" ,MBC 2
+#EXTINF:0 group-title="Movies" tvg-name="MBC 2" tvg-logo="https://i.imgur.com/KXuzL1u.png" ,MBC 2
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_7.m3u8
-#EXTINF:0 group-title="Undefined" tvg-name="(EGY) MBC 3" tvg-logo="https://i.imgur.com/FVNVC73.png" ,MBC 3
+#EXTINF:0 group-title="Movies" tvg-name="MBC 3" tvg-logo="https://i.imgur.com/FVNVC73.png" ,MBC 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_7.m3u8
-#EXTINF:0 group-title="Undefined" tvg-name="(EGY) MBC 4" tvg-logo="https://i.imgur.com/pfF61uH.png" ,MBC 4
+#EXTINF:0 group-title="Movies" tvg-name="MBC 4" tvg-logo="https://i.imgur.com/pfF61uH.png" ,MBC 4
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_7.m3u8
-#EXTINF:0 group-title="Undefined" tvg-name="(EGY) MBC 5" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" ,MBC 5
+#EXTINF:0 group-title="Movies" tvg-name="MBC 5" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" ,MBC 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_7.m3u8
-#EXTINF:0 group-title="Movies" tvg-name="(EGY) MBC Action" tvg-logo="https://i.imgur.com/n3TgfP0.png" ,MBC Action
+#EXTINF:0 group-title="Movies" tvg-name="MBC Action" tvg-logo="https://i.imgur.com/n3TgfP0.png" ,MBC Action
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 group-title="Entertainment" tvg-name="(EGY) MBC Bollywood" tvg-logo="https://i.imgur.com/fMjhK06.png" ,MBC Bollywood
+#EXTINF:0 group-title="Movies" tvg-name="MBC Bollywood" tvg-logo="https://i.imgur.com/fMjhK06.png" ,MBC Bollywood
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 group-title="Movies" tvg-name="(EGY) MBC Drama" tvg-logo="https://www.parsatv.com/index_files/channels/mbcdrama.png" ,MBC Drama
+#EXTINF:0 group-title="Movies" tvg-name="MBC Drama" tvg-logo="https://www.parsatv.com/index_files/channels/mbcdrama.png" ,MBC Drama
 https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_4.m3u8
-#EXTINF:0 group-title="Movies" tvg-name="(EGY) MBC Drama+" tvg-logo="https://media.elcinema.com/tvguide/1131_1.png" ,MBC Drama+
+#EXTINF:0 group-title="Movies" tvg-name="MBC Drama+" tvg-logo="https://media.elcinema.com/tvguide/1131_1.png" ,MBC Drama+
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_7.m3u8
-#EXTINF:0 group-title="Movies" tvg-name="(EGY) MBC Egypt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MBC_Masr_Logo.png/280px-MBC_Masr_Logo.png" ,MBC Egypt
+#EXTINF:0 group-title="Movies" tvg-name="MBC Egypt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MBC_Masr_Logo.png/280px-MBC_Masr_Logo.png" ,MBC Egypt
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_4.m3u8
-#EXTINF:0 group-title="Movies" tvg-name="(EGY) MBC Egypt 2" tvg-logo="https://www.tunisvista.com/medias/mbc-masr-2-tv-live-online-streaming.png" ,MBC Egypt 2
+#EXTINF:0 group-title="Movies" tvg-name="MBC Egypt 2" tvg-logo="https://www.tunisvista.com/medias/mbc-masr-2-tv-live-online-streaming.png" ,MBC Egypt 2
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_4.m3u8
-#EXTINF:0 group-title="Undefined" tvg-name="(EGY) MBC Iraq" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-iraq-ae-iq.png" ,MBC Iraq
+#EXTINF:0 group-title="Movies" tvg-name="MBC Iraq" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-iraq-ae-iq.png" ,MBC Iraq
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 group-title="Movies" tvg-name="(EGY) MBC Max HD" tvg-logo="https://i.imgur.com/X6EliFm.png" ,MBC Max HD
+#EXTINF:0 group-title="Movies" tvg-name="MBC Max HD" tvg-logo="https://i.imgur.com/X6EliFm.png" ,MBC Max HD
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 group-title="Movies" tvg-name="(EGY) Rotana Cinema HD" tvg-logo="https://static.filmon.com/assets/channels/2615/extra_big_logo.png" ,Rotana Cinema HD
-https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_7.m3u8
-#EXTINF:0 group-title="Movies" tvg-name="(EGY) Rotana Cinema HD KSA" tvg-logo="http://livetvscreen.com/wp-content/uploads/2012/07/Rotana-Clip.jpg" ,Rotana Cinema HD KSA
-https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index_4.m3u8
-#EXTINF:0 group-title="Movies" tvg-name="(EGY) Rotana Classic" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/classic.png" ,Rotana Classic
+#EXTINF:0 group-title="Movies" tvg-name="on drama" tvg-logo="https://media.elcinema.com/tvguide/1134_1.png" ,on drama
+http://62.210.250.215:8080/live/ox7QipfwiD/rutXQLWFhx/8.m3u8?token=HxANBRVRFwJHUAFXV1FXU1JTVgtYUwNZBloFWQEFAg4GVlEAVwAAWQAQHhZCERYGAlxvUAUQCllJG0USXUNtUAAQX0ZXGxkaEVtfURNfVE9BQVldQwgSVl0BBUMUE1dBEFcXCgdValwARFtXVEdeDRZdXBVDXV4+AVxdAFZVEANGAkdIRFBGSEcIXEFdCUhBAVhESwBGVUNfGwlQDhMeGwddEAoSS0waXxBnZxNJRgYbRVVXEltfD0cDEgwLRAobSBAMFzlLUEsRQFdVXAAWQVkTABtNEF0AHWZTDlZfV1oQWwoKFRsPGlUQHhZcCgoKF15CZhFbVENfGwJYDgkKGxk=
+#EXTINF:0 group-title="Movies" tvg-name="Rotana Aflam HD" tvg-logo="https://static.filmon.com/assets/channels/2615/extra_big_logo.png" ,Rotana Aflam HD
+https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index_7.m3u8
+#EXTINF:0 group-title="Movies" tvg-name="Rotana Cinema HD" tvg-logo="https://static.filmon.com/assets/channels/2615/extra_big_logo.png" ,Rotana Cinema HD
+https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_4.m3u8
+#EXTINF:0 group-title="Movies" tvg-name="Rotana Classic HD" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/classic.png" ,Rotana Classic HD
 https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index_7.m3u8
-#EXTINF:0 group-title="Movies" tvg-name="(EGY) Rotana Kids" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/kids.png" ,Rotana Kids
+#EXTINF:0 group-title="Movies" tvg-name="Rotana Drama HD" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/06/Rotana_Drama-2.png" ,Rotana Drama HD
+https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index_7.m3u8
+#EXTINF:0 group-title="Movies" tvg-name="Rotana Khalijia HD" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/RotanaKhaleejia.png" ,Rotana Khalijia HD
+https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index_7.m3u8
+#EXTINF:0 group-title="Kids" tvg-name="Rotana Kids HD" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/kids.png" ,Rotana Kids HD
 https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_7.m3u8
-#EXTINF:0 group-title="Kids" tvg-name="(EGY) spacetoon" tvg-logo="https://i.imgur.com/RzPOwqI.png" ,spacetoon
+#EXTINF:0 group-title="Movies" tvg-name="Rotana+ HD" tvg-logo="https://i.ibb.co/0YgT5BZ/237-rotana-1.jpg" ,Rotana+ HD
+https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_7.m3u8
+#EXTINF:0 group-title="Kids" tvg-name="Spacetoon" tvg-logo="https://i.imgur.com/RzPOwqI.png" ,Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w1322169554_b946000_slAR.m3u8
-#EXTINF:0 group-title="Movies" tvg-name="(DE) 1-2-3.TV HD" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,1-2-3.TV HD
+#EXTINF:0 group-title="Movies" tvg-name="1-2-3.TV HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/123tv_hd.png" ,1-2-3.TV HD
 rtsp://192.168.178.1:554/?avm=1&freq=242&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,258,523,524,528,1561
-#EXTINF:0 group-title="Movies" tvg-name="(DE) 3sat HD" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,3sat HD
+#EXTINF:0 group-title="Movies" tvg-name="3sat HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/3sat_hd.png" ,3sat HD
 rtsp://192.168.178.1:554/?avm=1&freq=202&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,261,553,554,555,556,557,558,1641,1651
-#EXTINF:0 group-title="Movies" tvg-name="(DE) ARD-alpha HD" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,ARD-alpha HD
+#EXTINF:0 group-title="Movies" tvg-name="ARD-alpha HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/ard-alpha_hd.png" ,ARD-alpha HD
 rtsp://192.168.178.1:554/?avm=1&freq=202&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,262,563,564,565,566,568,1671,1681,1682,1683
-#EXTINF:0 group-title="Movies" tvg-name="(DE) arte HD" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,arte HD
+#EXTINF:0 group-title="Movies" tvg-name="arte HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/arte_hd.png" ,arte HD
 rtsp://192.168.178.1:554/?avm=1&freq=114&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,257,513,514,515,518,1521,1522,1531
-#EXTINF:0 group-title="Movies" tvg-name="(DE) Astro TV" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,Astro TV
+#EXTINF:0 group-title="Movies" tvg-name="Astro TV" tvg-logo="https://tv.avm.de/tvapp/logos/astro_tv.png" ,Astro TV
 rtsp://192.168.178.1:554/?avm=1&freq=298&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,268,623,624
-#EXTINF:0 group-title="Movies" tvg-name="(DE) BBC World News" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,BBC World News
+#EXTINF:0 group-title="Movies" tvg-name="BBC World News" tvg-logo="https://tv.avm.de/tvapp/logos/bbc_world_news.png" ,BBC World News
 rtsp://192.168.178.1:554/?avm=1&freq=210&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,264,583,584
-#EXTINF:0 group-title="Movies" tvg-name="(DE) Channel21" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,Channel21
+#EXTINF:0 group-title="Movies" tvg-name="Channel21" tvg-logo="https://tv.avm.de/tvapp/logos/channel21.png" ,Channel21
 rtsp://192.168.178.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,258,523,524,528
-#EXTINF:0 group-title="Movies" tvg-name="(DE) CNBC" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,CNBC
+#EXTINF:0 group-title="Movies" tvg-name="CNBC" tvg-logo="https://tv.avm.de/tvapp/logos/cnbc.png" ,CNBC
 rtsp://192.168.178.1:554/?avm=1&freq=274&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,259,533,534
-#EXTINF:0 group-title="Movies" tvg-name="(DE) CNN" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,CNN
+#EXTINF:0 group-title="Movies" tvg-name="CNN" tvg-logo="https://tv.avm.de/tvapp/logos/cnn.png" ,CNN
 rtsp://192.168.178.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,261,553,554
-#EXTINF:0 group-title="Movies" tvg-name="(DE) COMEDY CENTRAL" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,COMEDY CENTRAL
+#EXTINF:0 group-title="Movies" tvg-name="COMEDY CENTRAL" tvg-logo="https://tv.avm.de/tvapp/logos/comedy_central.png" ,COMEDY CENTRAL
 rtsp://192.168.178.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,257,513,514,518,1531
-#EXTINF:0 group-title="Movies" tvg-name="(DE) Das Erste HD" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,Das Erste HD
+#EXTINF:0 group-title="Movies" tvg-name="Das Erste HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/das_erste_hd.png" ,Das Erste HD
 rtsp://192.168.178.1:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,6000,6010,1176,2172,2173,5108,6020,6021,6022,6030,6031,6070
-#EXTINF:0 group-title="Movies" tvg-name="(DE) Deutsches Musik Fer" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,Deutsches Musik Fer
+#EXTINF:0 group-title="Movies" tvg-name="Deutsches Musik Fer" tvg-logo="https://tv.avm.de/tvapp/logos/deutsches_musik_fer.png" ,Deutsches Musik Fer
 rtsp://192.168.178.1:554/?avm=1&freq=266&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,269,633,634,638
-#EXTINF:0 group-title="Movies" tvg-name="(DE) Disney" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png" ,Disney
+#EXTINF:0 group-title="Movies" tvg-name="Disney" tvg-logo="https://tv.avm.de/tvapp/logos/disney.png" ,Disney
 rtsp://192.168.178.1:554/?avm=1&freq=210&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,263,573,574,578
-#EXTINF:0 group-title="Movies" tvg-name="(DE) DMAX" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,DMAX
+#EXTINF:0 group-title="Movies" tvg-name="DMAX" tvg-logo="https://tv.avm.de/tvapp/logos/dmax.png" ,DMAX
 rtsp://192.168.178.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,260,543,544,548,1621
-#EXTINF:0 group-title="Movies" tvg-name="(DE) euronews (D)" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,euronews (D)
+#EXTINF:0 group-title="Movies" tvg-name="euronews (D)" tvg-logo="https://tv.avm.de/tvapp/logos/euronews.png" ,euronews (D)
 rtsp://192.168.178.1:554/?avm=1&freq=290&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,275,633,694
-#EXTINF:0 group-title="Movies" tvg-name="(DE) EUROSPORT 1" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,EUROSPORT 1
+#EXTINF:0 group-title="Movies" tvg-name="EUROSPORT 1" tvg-logo="https://tv.avm.de/tvapp/logos/eurosport_1.png" ,EUROSPORT 1
 rtsp://192.168.178.1:554/?avm=1&freq=218&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,264,583,584,588
-#EXTINF:0 group-title="Movies" tvg-name="(DE) kabel eins" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,kabel eins
+#EXTINF:0 group-title="Movies" tvg-name="kabel eins" tvg-logo="https://tv.avm.de/tvapp/logos/kabel_eins.png" ,kabel eins
 rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,263,573,574,578,1711
-#EXTINF:0 group-title="Movies" tvg-name="(DE) kabel eins Doku" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,kabel eins Doku
+#EXTINF:0 group-title="Movies" tvg-name="kabel eins Doku" tvg-logo="https://tv.avm.de/tvapp/logos/kabel_eins_doku.png" ,kabel eins Doku
 rtsp://192.168.178.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,271,653,654,658,1951
-#EXTINF:0 group-title="Movies" tvg-name="(DE) KiKA HD" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,KiKA HD
+#EXTINF:0 group-title="Movies" tvg-name="KiKA HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/kika_hd.png" ,KiKA HD
 rtsp://192.168.178.1:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,260,543,544,545,546,548,1611,1621
-#EXTINF:0 group-title="Movies" tvg-name="(DE) MTV" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,MTV
+#EXTINF:0 group-title="Movies" tvg-name="MTV" tvg-logo="https://tv.avm.de/tvapp/logos/mtv.png" ,MTV
 rtsp://192.168.178.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,263,573,574,575,578,1711
-#EXTINF:0 group-title="Movies" tvg-name="(DE) N24 Doku" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,N24 Doku
+#EXTINF:0 group-title="Movies" tvg-name="N24 Doku" tvg-logo="https://tv.avm.de/tvapp/logos/n24_doku.png" ,N24 Doku
 rtsp://192.168.178.1:554/?avm=1&freq=266&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,271,653,654,658
-#EXTINF:0 group-title="Movies" tvg-name="(DE) Nickelodeon" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,Nickelodeon
+#EXTINF:0 group-title="Movies" tvg-name="Nickelodeon" tvg-logo="https://tv.avm.de/tvapp/logos/nickelodeon.png" ,Nickelodeon
 rtsp://192.168.178.1:554/?avm=1&freq=226&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,265,593,594,595,598,1771
-#EXTINF:0 group-title="Movies" tvg-name="(DE) Nitro" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,Nitro
+#EXTINF:0 group-title="Movies" tvg-name="Nitro" tvg-logo="https://tv.avm.de/tvapp/logos/nitro.png" ,Nitro
 rtsp://192.168.178.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,267,613,614,618,1821,1831,1832,1833
-#EXTINF:0 group-title="Movies" tvg-name="(DE) ntv" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,ntv
+#EXTINF:0 group-title="Movies" tvg-name="ntv" tvg-logo="https://tv.avm.de/tvapp/logos/ntv.png" ,ntv
 rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,266,593,594,595,598,1801,1802,1803
-#EXTINF:0 group-title="Movies" tvg-name="(DE) ONE HD" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,ONE HD
+#EXTINF:0 group-title="Movies" tvg-name="ONE HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/one_hd.png" ,ONE HD
 rtsp://192.168.178.1:554/?avm=1&freq=210&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,261,553,554,555,556,558,1641,1651,1652,1653
-#EXTINF:0 group-title="Movies" tvg-name="(DE) phoenix HD" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,phoenix HD
+#EXTINF:0 group-title="Movies" tvg-name="phoenix HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/phoenix_hd.png" ,phoenix HD
 rtsp://192.168.178.1:554/?avm=1&freq=114&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,261,553,554,555,558,1651,1652
-#EXTINF:0 group-title="Movies" tvg-name="(DE) ProSieben" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,ProSieben
+#EXTINF:0 group-title="Movies" tvg-name="ProSieben" tvg-logo="https://tv.avm.de/tvapp/logos/prosieben.png" ,ProSieben
 rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,260,543,544,546,548,1621
-#EXTINF:0 group-title="Movies" tvg-name="(DE) ProSieben MAXX" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,ProSieben MAXX
+#EXTINF:0 group-title="Movies" tvg-name="ProSieben MAXX" tvg-logo="https://tv.avm.de/tvapp/logos/prosieben_maxx.png" ,ProSieben MAXX
 rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,267,613,614,618,1831
-#EXTINF:0 group-title="Movies" tvg-name="(DE) RTL" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,RTL
+#EXTINF:0 group-title="Movies" tvg-name="RTL" tvg-logo="https://tv.avm.de/tvapp/logos/rtl.png" ,RTL
 rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,258,523,524,525,528,1551,1561,1562,1563
-#EXTINF:0 group-title="Movies" tvg-name="(DE) RTLplus" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,RTLplus
+#EXTINF:0 group-title="Movies" tvg-name="RTLplus" tvg-logo="https://tv.avm.de/tvapp/logos/rtlplus.png" ,RTLplus
 rtsp://192.168.178.1:554/?avm=1&freq=266&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,259,533,534,538,1591,1592,1593
-#EXTINF:0 group-title="Movies" tvg-name="(DE) RTLZWEI" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,RTLZWEI
+#EXTINF:0 group-title="Movies" tvg-name="RTLZWEI" tvg-logo="https://tv.avm.de/tvapp/logos/rtlzwei.png" ,RTLZWEI
 rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,262,563,564,568,1671,1681,1682,1683
-#EXTINF:0 group-title="Movies" tvg-name="(DE) SAT.1" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,SAT.1
+#EXTINF:0 group-title="Movies" tvg-name="SAT.1" tvg-logo="https://tv.avm.de/tvapp/logos/sat.1.png" ,SAT.1
 rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,259,533,534,536,538,1591
-#EXTINF:0 group-title="Movies" tvg-name="(DE) SAT.1 GOLD" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,SAT.1 GOLD
+#EXTINF:0 group-title="Movies" tvg-name="SAT.1 GOLD" tvg-logo="https://tv.avm.de/tvapp/logos/sat.1_gold.png" ,SAT.1 GOLD
 rtsp://192.168.178.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,266,603,604,608,1801
-#EXTINF:0 group-title="Movies" tvg-name="(DE) SIXX" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,SIXX
+#EXTINF:0 group-title="Movies" tvg-name="SIXX" tvg-logo="https://tv.avm.de/tvapp/logos/sixx.png" ,SIXX
 rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,268,623,624,628,1861
-#EXTINF:0 group-title="Movies" tvg-name="(DE) Sky Sport News HD" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,Sky Sport News HD
+#EXTINF:0 group-title="Movies" tvg-name="Sky Sport News HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/sky_sport_news_hd.png" ,Sky Sport News HD
 rtsp://192.168.178.1:554/?avm=1&freq=170&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,99,1023,1027
-#EXTINF:0 group-title="Movies" tvg-name="(DE) SPORT1" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,SPORT1
+#EXTINF:0 group-title="Movies" tvg-name="SPORT1" tvg-logo="https://tv.avm.de/tvapp/logos/sport1.png" ,SPORT1
 rtsp://192.168.178.1:554/?avm=1&freq=218&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,266,603,604,608,1801
-#EXTINF:0 group-title="Movies" tvg-name="(DE) Super RTL" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,Super RTL
+#EXTINF:0 group-title="Movies" tvg-name="Super RTL" tvg-logo="https://tv.avm.de/tvapp/logos/super_rtl.png" ,Super RTL
 rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,265,583,584,588,1761,1771,1772,1773
-#EXTINF:0 group-title="Movies" tvg-name="(DE) tagesschau24 HD" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,tagesschau24 HD
+#EXTINF:0 group-title="Movies" tvg-name="tagesschau24 HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/tagesschau24_hd.png" ,tagesschau24 HD
 rtsp://192.168.178.1:554/?avm=1&freq=250&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,260,543,544,545,546,548,1621,1622,1623,4072
-#EXTINF:0 group-title="Movies" tvg-name="(DE) Tele 5" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,Tele 5
+#EXTINF:0 group-title="Movies" tvg-name="Tele 5" tvg-logo="https://tv.avm.de/tvapp/logos/tele_5.png" ,Tele 5
 rtsp://192.168.178.1:554/?avm=1&freq=218&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,268,623,624,628
-#EXTINF:0 group-title="Movies" tvg-name="(DE) TLC" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,TLC
+#EXTINF:0 group-title="Movies" tvg-name="TLC" tvg-logo="https://tv.avm.de/tvapp/logos/tlc.png" ,TLC
 rtsp://192.168.178.1:554/?avm=1&freq=186&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,274,683,684,688,2041
-#EXTINF:0 group-title="Movies" tvg-name="(DE) TOGGO plus" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,TOGGO plus
+#EXTINF:0 group-title="Movies" tvg-name="TOGGO plus" tvg-logo="https://tv.avm.de/tvapp/logos/toggo_plus.png" ,TOGGO plus
 rtsp://192.168.178.1:554/?avm=1&freq=346&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,261,553,554,558,1651
-#EXTINF:0 group-title="Movies" tvg-name="(DE) VOX" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,VOX
+#EXTINF:0 group-title="Movies" tvg-name="VOX" tvg-logo="https://tv.avm.de/tvapp/logos/vox.png" ,VOX
 rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,261,553,554,558,1641,1651,1652,1653
-#EXTINF:0 group-title="Movies" tvg-name="(DE) VOXup" tvg-logo="https://images.mediabiz.de/s/das-logo-des-neuen-senders-voxup/newspics/959/445959_1/b2780x1450.jpg" ,VOXup
+#EXTINF:0 group-title="Movies" tvg-name="VOXup" tvg-logo="https://images.mediabiz.de/s/das-logo-des-neuen-senders-voxup/newspics/959/445959_1/b2780x1450.jpg" ,VOXup
 rtsp://192.168.178.1:554/?avm=1&freq=290&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,276,703,704,708,2101,2102,2103
-#EXTINF:0 group-title="Movies" tvg-name="(DE) WELT" tvg-logo="https://www.welt.de/assets/images/global/welt_brand-dd869f0cab.png" ,WELT
+#EXTINF:0 group-title="Movies" tvg-name="WELT" tvg-logo="https://www.welt.de/assets/images/global/welt_brand-dd869f0cab.png" ,WELT
 rtsp://192.168.178.1:554/?avm=1&freq=218&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,267,613,614,618
-#EXTINF:0 group-title="Movies" tvg-name="(DE) ZDF HD" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,ZDF HD
+#EXTINF:0 group-title="Movies" tvg-name="ZDF HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/zdf_hd.png" ,ZDF HD
 rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,6100,6110,6120,6121,6122,6123,6130,6131,6170
-#EXTINF:0 group-title="Movies" tvg-name="(DE) ZDF_neo HD" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,ZDF_neo HD
+#EXTINF:0 group-title="Movies" tvg-name="ZDF_neo HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/zdf_neo_hd.png" ,ZDF neo HD
 rtsp://192.168.178.1:554/?avm=1&freq=194&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,261,553,554,555,556,557,558,1641,1651
-#EXTINF:0 group-title="Movies" tvg-name="(DE) ZDFinfo HD" tvg-logo="https://static.thenounproject.com/png/105266-200.png" ,ZDFinfo HD
+#EXTINF:0 group-title="Movies" tvg-name="ZDFinfo HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/zdfinfo_hd.png" ,ZDF info HD
 rtsp://192.168.178.1:554/?avm=1&freq=218&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,262,563,564,565,566,567,568,1671,1681
