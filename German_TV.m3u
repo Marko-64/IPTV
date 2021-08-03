@@ -3,7 +3,7 @@
 rtsp://192.168.178.1:554/?avm=1&freq=242&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,258,523,524,528,1561
 #EXTINF:0 group-title="Movies" tvg-name="3sat HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/3sat_hd.png" ,3sat HD
 rtsp://192.168.178.1:554/?avm=1&freq=202&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,261,553,554,555,556,557,558,1641,1651
-#EXTINF:0 group-title="Movies" tvg-name="ARD-alpha HD" tvg-logo="https://tv.avm.de/tvapp/logos/.png" ,ARD-alpha HD
+#EXTINF:0 group-title="Movies" tvg-name="ARD-alpha HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/ard-alpha_hd.png" ,ARD-alpha HD
 rtsp://192.168.178.1:554/?avm=1&freq=202&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,262,563,564,565,566,568,1671,1681,1682,1683
 #EXTINF:0 group-title="Movies" tvg-name="arte HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/arte_hd.png" ,arte HD
 rtsp://192.168.178.1:554/?avm=1&freq=114&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,257,513,514,515,518,1521,1522,1531
@@ -63,7 +63,7 @@ rtsp://192.168.178.1:554/?avm=1&freq=266&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,262,563,564,568,1671,1681,1682,1683
 #EXTINF:0 group-title="Movies" tvg-name="SAT.1" tvg-logo="https://tv.avm.de/tvapp/logos/sat.1.png" ,SAT.1
 rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,259,533,534,536,538,1591
-#EXTINF:0 group-title="Movies" tvg-name="SAT.1 GOLD" tvg-logo="https://tv.avm.de/tvapp/logos/.png" ,SAT.1 GOLD
+#EXTINF:0 group-title="Movies" tvg-name="SAT.1 GOLD" tvg-logo="https://tv.avm.de/tvapp/logos/sat.1_gold.png" ,SAT.1 GOLD
 rtsp://192.168.178.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,266,603,604,608,1801
 #EXTINF:0 group-title="Movies" tvg-name="SIXX" tvg-logo="https://tv.avm.de/tvapp/logos/sixx.png" ,SIXX
 rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,268,623,624,628,1861
@@ -91,5 +91,5 @@ rtsp://192.168.178.1:554/?avm=1&freq=218&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,6100,6110,6120,6121,6122,6123,6130,6131,6170
 #EXTINF:0 group-title="Movies" tvg-name="ZDF_neo HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/zdf_neo_hd.png" ,ZDF neo HD
 rtsp://192.168.178.1:554/?avm=1&freq=194&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,261,553,554,555,556,557,558,1641,1651
-#EXTINF:0 group-title="Movies" tvg-name="ZDFinfo HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/zdfinfo_hd.png" ,ZD Finfo HD
+#EXTINF:0 group-title="Movies" tvg-name="ZDFinfo HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/zdfinfo_hd.png" ,ZDF info HD
 rtsp://192.168.178.1:554/?avm=1&freq=218&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,262,563,564,565,566,567,568,1671,1681
