@@ -89,7 +89,7 @@ rtsp://192.168.178.1:554/?avm=1&freq=290&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 rtsp://192.168.178.1:554/?avm=1&freq=218&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,267,613,614,618
 #EXTINF:0 group-title="Movies" tvg-name="ZDF HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/zdf_hd.png" ,ZDF HD
 rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,6100,6110,6120,6121,6122,6123,6130,6131,6170
-#EXTINF:0 group-title="Movies" tvg-name="ZDF_neo HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/zdf_neo_hd.png" ,ZDF_neo HD
+#EXTINF:0 group-title="Movies" tvg-name="ZDF_neo HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/zdf_neo_hd.png" ,ZDF neo HD
 rtsp://192.168.178.1:554/?avm=1&freq=194&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,261,553,554,555,556,557,558,1641,1651
-#EXTINF:0 group-title="Movies" tvg-name="ZDFinfo HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/zdfinfo_hd.png" ,ZDFinfo HD
+#EXTINF:0 group-title="Movies" tvg-name="ZDFinfo HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/zdfinfo_hd.png" ,ZD Finfo HD
 rtsp://192.168.178.1:554/?avm=1&freq=218&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,262,563,564,565,566,567,568,1671,1681
