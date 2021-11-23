@@ -17,14 +17,18 @@ https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaNA2.smil/chunklist_w99
 https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame1.smil/chunklist_w1660557871_b2328000_slar.m3u8
 #EXTINF:0 group-title="News" tvg-name="BBC Arabic Live" tvg-logo="https://www.arm-tv.com/wp-content/uploads/2020/01/bbc-news-tv-logo-1.png" ,BBC Arabic Live
 https://www.youtube.com/watch?v=HxI2TxhhS9A
+#EXTINF:0 group-title="Movies" tvg-name="Bee Movies" tvg-logo="https://i.ibb.co/qNFVQf6/Bee-Movies.jpg" ,Bee Movies
+www.YouTube.com/channel/UCuaMJTqQ_W7qztqZ_zyErJg/live
 #EXTINF:0 group-title="Kids" tvg-name="Cartoon Network Arabic" tvg-logo="https://i.ibb.co/Ln2wdn7/cartoon-network-logo.jpg" ,Cartoon Network Arabic
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_6.m3u8
 #EXTINF:0 group-title="Movies" tvg-name="CBC" tvg-logo="https://i.ibb.co/Z1JGP0Z/cbc.png" ,CBC
-https://tv.taghtia.com/serve/youtube/cbc
+www.YouTube.com/channel/UCUHq39HXLyAjjMPIjsNRLpw/live
 #EXTINF:0 group-title="Movies" tvg-name="CBC drama" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/CBCDrama.png" ,CBC drama
-https://tv.taghtia.com/serve/youtube/cbc-drama
+www.YouTube.com/channel/UC6vnBggs5mkGu7dMaGso_rw/live
 #EXTINF:0 group-title="Movies" tvg-name="CBC Extra" tvg-logo="https://i.ibb.co/TgRMsWw/Download.jpg" ,CBC Extra
-https://www.youtube.com/watch?v=NMU3IuvmTrQ
+www.YouTube.com/channel/UC65F33K2cXk9hGDbOQYhTOw/live
+#EXTINF:0 group-title="Movies" tvg-name="CBC Sofra" tvg-logo="https://i.ibb.co/qxSbhWP/CBC-Sofra.jpg" ,CBC Sofra
+www.YouTube.com/channel/UC--UtxrU7FWNCp0l7AG9EIw/live
 #EXTINF:0 group-title="Religion" tvg-name="CTV" tvg-logo="http://www.ctvchannel.tv/Images/Page/Logo.png" ,CTV
 https://5d658d7e9f562.streamlock.net/ctvchannel.tv/ctv.smil/chunklist_w2107881819_b728000_slar_t64U0Q=.m3u8
 #EXTINF:0 group-title="Movies" tvg-name="dmc" tvg-logo="https://i.ibb.co/FK2WhDk/Download.jpg" ,dmc
@@ -66,7 +70,7 @@ https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/in
 #EXTINF:0 group-title="Movies" tvg-name="MBC Max HD" tvg-logo="https://i.imgur.com/X6EliFm.png" ,MBC Max HD
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 group-title="Religion" tvg-name="MESat" tvg-logo="https://i.ytimg.com/vi/Usnyv81KqX4/maxresdefault.jpg" ,MESat
-https://www.youtube.com/watch?v=eANUxO9tkqw
+www.YouTube.com/channel/UCg5uHOxrP5GkMWldOavPKGQ/live
 #EXTINF:0 group-title="Sport" tvg-name="ON" tvg-logo="https://i.ibb.co/yXqVR2v/ON.png" ,ON
 https://blogs.livehdchanel.live/on1/video.m3u8?token=44Li5LDSX3
 #EXTINF:0 group-title="Movies" tvg-name="on drama" tvg-logo="https://media.elcinema.com/tvguide/1134_1.png" ,on drama
@@ -91,6 +95,8 @@ https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398
 https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_7.m3u8
 #EXTINF:0 group-title="Movies" tvg-name="Rotana+ HD" tvg-logo="https://i.ibb.co/0YgT5BZ/237-rotana-1.jpg" ,Rotana+ HD
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_7.m3u8
+#EXTINF:0 group-title="Movies" tvg-name="Roya TV" tvg-logo="https://tv.taghtia.com/assets/channels/roya-tv.png" ,Roya TV
+www.YouTube.com/channel/UC_0F7pdI2lfiEGF0Lpa269Q/live
 #EXTINF:0 group-title="News" tvg-name="Sky News Arabia" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/51O3GG0etzL.png" ,Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna_360.m3u8
 #EXTINF:0 group-title="Kids" tvg-name="Spacetoon" tvg-logo="https://i.imgur.com/RzPOwqI.png" ,Spacetoon
