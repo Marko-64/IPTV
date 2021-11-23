@@ -8,9 +8,9 @@ https://5a8308add0b31.streamlock.net/alhorreya.tv/alhorreya.smil/chunklist_w5890
 #EXTINF:0 group-title="Movies" tvg-name="Al Jazeera" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/31AIdoYz1sL.png" ,Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 #EXTINF:0 group-title="Movies" tvg-name="al kahra wal nas" tvg-logo="https://i.ibb.co/2WTnGXn/Download-1.jpg" ,al kahra wal nas
-https://blogs.livehdchanel.live/kahera/video.m3u8?token=44Li5LDSX3
+https://tv.taghtia.com/serve/youtube/al-kahera-wal-nas
 #EXTINF:0 group-title="Movies" tvg-name="al kahra wal nas2" tvg-logo="https://i.ibb.co/54DqLSc/Download-2.jpg" ,al kahra wal nas2
-https://youtu.be/2ZNCSuVgGhY
+https://tv.taghtia.com/serve/youtube/al-kahera-wal-nas-2
 #EXTINF:0 group-title="Religion" tvg-name="ALKARMA TV FAMILY" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alkarma-tv-family-us.png" ,ALKARMA TV FAMILY
 https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaNA2.smil/chunklist_w998467759_b2328000_slar.m3u8
 #EXTINF:0 group-title="Religion" tvg-name="ALKARMA TV MIDDLE EAST" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alkarma-tv-middle-east-us.png" ,ALKARMA TV MIDDLE EAST
@@ -20,9 +20,9 @@ https://www.youtube.com/watch?v=HxI2TxhhS9A
 #EXTINF:0 group-title="Kids" tvg-name="Cartoon Network Arabic" tvg-logo="https://i.ibb.co/Ln2wdn7/cartoon-network-logo.jpg" ,Cartoon Network Arabic
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_6.m3u8
 #EXTINF:0 group-title="Movies" tvg-name="CBC" tvg-logo="https://i.ibb.co/Z1JGP0Z/cbc.png" ,CBC
-https://youtu.be/phZqstvb1-c
+https://tv.taghtia.com/serve/youtube/cbc
 #EXTINF:0 group-title="Movies" tvg-name="CBC drama" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/CBCDrama.png" ,CBC drama
-https://www.youtube.com/watch?v=hWexd8aoK3Q
+https://tv.taghtia.com/serve/youtube/cbc-drama
 #EXTINF:0 group-title="Movies" tvg-name="CBC Extra" tvg-logo="https://i.ibb.co/TgRMsWw/Download.jpg" ,CBC Extra
 https://www.youtube.com/watch?v=NMU3IuvmTrQ
 #EXTINF:0 group-title="Religion" tvg-name="CTV" tvg-logo="http://www.ctvchannel.tv/Images/Page/Logo.png" ,CTV
