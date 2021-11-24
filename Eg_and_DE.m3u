@@ -1,48 +1,74 @@
 #EXTM3U
+#EXTINF:0 group-title="Movies" tvg-name="Abu Dhabi Drama" tvg-logo="https://tv.taghtia.com/assets/channels/abu-dhabi-drama.png" ,Abu Dhabi Drama
+https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
+#EXTINF:0 group-title="Movies" tvg-name="Abu Dhabi TV" tvg-logo="https://tv.taghtia.com/assets/channels/abu-dhabi-tv.png" ,Abu Dhabi TV
+https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
+#EXTINF:0 group-title="Movies" tvg-name="AD Sports 1" tvg-logo="https://tv.taghtia.com/assets/channels/ad-sports-1.png" ,AD Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
 #EXTINF:0 group-title="Religion" tvg-name="Aghapy tv" tvg-logo="https://www.freeetv.com/images/01_logo/aghapy_tv.jpg" ,Aghapy tv
 https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/chunklist_w768730167_b1400000_slar_t64SEQ=.m3u8
 #EXTINF:0 group-title="Movies" tvg-name="al hayat tv" tvg-logo="https://www.freeetv.com/images/01_logo/aghapy_tv.jpg" ,al hayat tv
 https://wowzaprod140-i.akamaihd.net/hls/live/750788/7552102e/7552102e_1_1000000/chunklist.m3u8
+#EXTINF:0 group-title="Religion" tvg-name="al horreya" tvg-logo="https://alhorreya.org/images/alhorreya-logo_new.png" ,al horreya
+https://5a8308add0b31.streamlock.net/alhorreya.tv/alhorreya.smil/chunklist_w589082280_b143000_slar.m3u8
+#EXTINF:0 group-title="Movies" tvg-name="Al Jazeera" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/31AIdoYz1sL.png" ,Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 #EXTINF:0 group-title="Movies" tvg-name="al kahra wal nas" tvg-logo="https://i.ibb.co/2WTnGXn/Download-1.jpg" ,al kahra wal nas
-https://youtu.be/hSzkVBVHuTM
+https://tv.taghtia.com/serve/youtube/al-kahera-wal-nas
 #EXTINF:0 group-title="Movies" tvg-name="al kahra wal nas2" tvg-logo="https://i.ibb.co/54DqLSc/Download-2.jpg" ,al kahra wal nas2
-https://youtu.be/2ZNCSuVgGhY
+https://tv.taghtia.com/serve/youtube/al-kahera-wal-nas-2
+#EXTINF:0 group-title="Movies" tvg-name="Alhurra" tvg-logo="https://tv.taghtia.com/assets/channels/alhurra.png" ,Alhurra
+https://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master_928.m3u8
 #EXTINF:0 group-title="Religion" tvg-name="ALKARMA TV FAMILY" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alkarma-tv-family-us.png" ,ALKARMA TV FAMILY
 https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaNA2.smil/chunklist_w998467759_b2328000_slar.m3u8
 #EXTINF:0 group-title="Religion" tvg-name="ALKARMA TV MIDDLE EAST" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alkarma-tv-middle-east-us.png" ,ALKARMA TV MIDDLE EAST
 https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame1.smil/chunklist_w1660557871_b2328000_slar.m3u8
+#EXTINF:0 group-title="Movies" tvg-name="Alkass One" tvg-logo="https://tv.taghtia.com/assets/channels/alkass-one.png" ,Alkass One
+https://alkasmsl4.akamaized.net/hls/live/2003123/Alkas1baz/hdntl=exp=1637786972~acl=%2f*~data=hdntl~hmac=0c500d1da14e4cfcc33e942e08d88eaa64563d4888fc1ce1a738c3f33d370cb7/master360.m3u8
+#EXTINF:0 group-title="News" tvg-name="BBC Arabic Live" tvg-logo="https://www.arm-tv.com/wp-content/uploads/2020/01/bbc-news-tv-logo-1.png" ,BBC Arabic Live
+https://www.youtube.com/watch?v=HxI2TxhhS9A
+#EXTINF:0 group-title="Movies" tvg-name="Bee Movies" tvg-logo="https://i.ibb.co/qNFVQf6/Bee-Movies.jpg" ,Bee Movies
+https://www.youtube.com/watch?v=hbcl_sR5w1M
 #EXTINF:0 group-title="Kids" tvg-name="Cartoon Network Arabic" tvg-logo="https://i.ibb.co/Ln2wdn7/cartoon-network-logo.jpg" ,Cartoon Network Arabic
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_6.m3u8
 #EXTINF:0 group-title="Movies" tvg-name="CBC" tvg-logo="https://i.ibb.co/Z1JGP0Z/cbc.png" ,CBC
-https://youtu.be/phZqstvb1-c
+https://tv.taghtia.com/serve/youtube/cbc
 #EXTINF:0 group-title="Movies" tvg-name="CBC drama" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/CBCDrama.png" ,CBC drama
-https://youtu.be/fAWu7fQsO28
+https://tv.taghtia.com/serve/youtube/cbc-drama
 #EXTINF:0 group-title="Movies" tvg-name="CBC Extra" tvg-logo="https://i.ibb.co/TgRMsWw/Download.jpg" ,CBC Extra
-https://youtu.be/10tpfK0Fx_w
+https://tv.taghtia.com/serve/youtube/extra-news
+#EXTINF:0 group-title="Movies" tvg-name="CBC Sofra" tvg-logo="https://i.ibb.co/qxSbhWP/CBC-Sofra.jpg" ,CBC Sofra
+https://tv.taghtia.com/serve/youtube/extra-news
 #EXTINF:0 group-title="Religion" tvg-name="CTV" tvg-logo="http://www.ctvchannel.tv/Images/Page/Logo.png" ,CTV
 https://5d658d7e9f562.streamlock.net/ctvchannel.tv/ctv.smil/chunklist_w2107881819_b728000_slar_t64U0Q=.m3u8
 #EXTINF:0 group-title="Movies" tvg-name="dmc" tvg-logo="https://i.ibb.co/FK2WhDk/Download.jpg" ,dmc
-http://62.210.250.215:8080/live/ox7QipfwiD/rutXQLWFhx/49.m3u8?token=HxANBRVRFwJHVgZXVVEFUAUHCFxUC1QHBwgHUAkBAA1TClUGXg8ADgYQHhZCERYGAlxvUAUQClVcFRIUS1RAZg1WR15ECBcUR0ZbWVRHXlNPE0BQBRAKQ1QKBFEJEx4bAUoRARRXVFQ6VldCWAYBQVlfRVUNHhIOC2ZUBFVQXF1GCEdURBUXURZCEA5fEAgPTxNSUBVAURUAGwpDCgUGDEYeRwcJTFtMF0sQDhMwN0FPE1VBFVdeEgxWXkMCE18KEQpHSERQRmcXV0FAQwAFDgZDEgNDAhJNR1RRGWdSXVcKVwYQD1ZbS0cIEAQTSUYODF9ZTQ5AbxEMXRJbGgcDDFYQGA==
+http://185.9.2.25/MCNC_DMC/tracks-v1a1/mono.m3u8?token=telearabiamax.tv
 #EXTINF:0 group-title="Movies" tvg-name="dmc drama" tvg-logo="https://i.ibb.co/FK2WhDk/Download.jpg" ,dmc drama
-http://62.210.250.215:8080/live/ox7QipfwiD/rutXQLWFhx/13.m3u8?token=HxANBRVRFwJHAgMGUlcFUQBSUwlRUFNUVg8EAFpVBQsGUwFUUFhTDwMQHhZCERYGAlxvUAUQClBWFRIUS1RAZg1WR15ECBcUR0ZbWVRHXlNPE0BQBRAKQ1cAA1QAEx4bAUoRARRXVFQ6VldCWAYBQVlfRVUNHhIOC2ZUBFVQXF1GCEdURBUXURZCEA5fEAgPTxNSUBVAURUAGwpDAQkFG0gQBgsTV0FKHBAIFmQ2Rk9BVEhNBFxDCApXElsaXAFMXBBJRg9KakoAQUZGVAQJBhETChtREBxDCFhIPlteXFcBURENCVdGGl8QAhYdRwkMDVhEVhNtQAgBGwpDCgIBDVwQGA==
+http://185.9.2.25/MCNC_DMC_DRAMA/tracks-v1a1/mono.m3u8?token=telearabiamax.tv
 #EXTINF:0 group-title="Movies" tvg-name="Dubai" tvg-logo="https://i.ibb.co/3TPtqKR/DubaiTV.png" ,Dubai
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b1500000.m3u8
 #EXTINF:0 group-title="Movies" tvg-name="Dubai one" tvg-logo="https://pbs.twimg.com/profile_images/1400056457987506176/VBHJWuxE_400x400.jpg" ,Dubai one
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 #EXTINF:0 group-title="Movies" tvg-name="Dubai Sama" tvg-logo="https://www.samadubai.ae/content/dam/samadubai/icons/sama-dubai.jpg" ,Dubai Sama
 https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b1500000.m3u8
+#EXTINF:0 group-title="Movies" tvg-name="Dubai Sports 1" tvg-logo="https://tv.taghtia.com/assets/channels/dubai-sports-1.png" ,Dubai Sports 1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b850000.m3u8
+#EXTINF:0 group-title="Movies" tvg-name="DW Arabic" tvg-logo="https://tv.taghtia.com/assets/channels/dw-arabic.png" ,DW Arabic
+https://dwamdstream108.akamaized.net/hls/live/2017969/dwstream108/stream01/streamPlaylist.m3u8
+#EXTINF:0 group-title="Movies" tvg-name="LBCI" tvg-logo="https://tv.taghtia.com/assets/channels/lbci.png" ,LBCI
+https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index_5.m3u8
+#EXTINF:0 group-title="Religion" tvg-name="Logos tv" tvg-logo="https://i.ibb.co/4t2nZyX/Logos-TV.png" ,Logos tv
+https://58cc65c534c67.streamlock.net/logoschannel.com/logostv.smil/chunklist_w1133150625_b2928000_slar.m3u8
 #EXTINF:0 group-title="Movies" tvg-name="MBC" tvg-logo="https://i.imgur.com/eKBXOKd.png" ,MBC
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_4.m3u8
 #EXTINF:0 group-title="Movies" tvg-name="MBC 2" tvg-logo="https://i.imgur.com/KXuzL1u.png" ,MBC 2
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_7.m3u8
+http://163.172.28.43:9090/stream/6861509/96e703d47233d2b578168498483af32c/6406-.m3u8
 #EXTINF:0 group-title="Movies" tvg-name="MBC 3" tvg-logo="https://i.imgur.com/FVNVC73.png" ,MBC 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_7.m3u8
 #EXTINF:0 group-title="Movies" tvg-name="MBC 4" tvg-logo="https://i.imgur.com/pfF61uH.png" ,MBC 4
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_7.m3u8
 #EXTINF:0 group-title="Movies" tvg-name="MBC 5" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" ,MBC 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_7.m3u8
-#EXTINF:0 group-title="Movies" tvg-name="MBC Action" tvg-logo="https://i.imgur.com/n3TgfP0.png" ,MBC Action
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 group-title="Movies" tvg-name="MBC Bollywood" tvg-logo="https://i.imgur.com/fMjhK06.png" ,MBC Bollywood
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 group-title="Movies" tvg-name="MBC Drama" tvg-logo="https://www.parsatv.com/index_files/channels/mbcdrama.png" ,MBC Drama
@@ -55,10 +81,14 @@ https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/in
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_4.m3u8
 #EXTINF:0 group-title="Movies" tvg-name="MBC Iraq" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-iraq-ae-iq.png" ,MBC Iraq
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 group-title="Movies" tvg-name="MBC Max HD" tvg-logo="https://i.imgur.com/X6EliFm.png" ,MBC Max HD
-https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 group-title="Movies" tvg-name="on drama" tvg-logo="https://media.elcinema.com/tvguide/1134_1.png" ,on drama
-http://62.210.250.215:8080/live/ox7QipfwiD/rutXQLWFhx/8.m3u8?token=HxANBRVRFwJHUAFXV1FXU1JTVgtYUwNZBloFWQEFAg4GVlEAVwAAWQAQHhZCERYGAlxvUAUQCllJG0USXUNtUAAQX0ZXGxkaEVtfURNfVE9BQVldQwgSVl0BBUMUE1dBEFcXCgdValwARFtXVEdeDRZdXBVDXV4+AVxdAFZVEANGAkdIRFBGSEcIXEFdCUhBAVhESwBGVUNfGwlQDhMeGwddEAoSS0waXxBnZxNJRgYbRVVXEltfD0cDEgwLRAobSBAMFzlLUEsRQFdVXAAWQVkTABtNEF0AHWZTDlZfV1oQWwoKFRsPGlUQHhZcCgoKF15CZhFbVENfGwJYDgkKGxk=
+#EXTINF:0 group-title="Movies" tvg-logo="https://tv.taghtia.com/assets/channels/mbc-masr-2.png" ,MBC Masr 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_9.m3u8
+#EXTINF:0 group-title="Religion" tvg-name="MESat" tvg-logo="https://i.ytimg.com/vi/Usnyv81KqX4/maxresdefault.jpg" ,MESat
+https://www.youtube.com/watch?v=aVtAQJ5h_Kg
+#EXTINF:0 group-title="Movies" tvg-name="National Geographic Abu Dhabi" tvg-logo="https://tv.taghtia.com/assets/channels/national-geographic-abu-dhabi.png" ,National Geographic Abu Dhabi
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b125000_t64MTgwcA==.m3u8
+#EXTINF:0 group-title="Movies" tvg-name="Palestine TV" tvg-logo="https://tv.taghtia.com/assets/channels/palestine-tv.png" ,Palestine TV
+https://pbc.furrera.ps/palestinehd/tracks-v3a1/mono.m3u8
 #EXTINF:0 group-title="Movies" tvg-name="Rotana Aflam HD" tvg-logo="https://static.filmon.com/assets/channels/2615/extra_big_logo.png" ,Rotana Aflam HD
 https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index_7.m3u8
 #EXTINF:0 group-title="Movies" tvg-name="Rotana Cinema HD" tvg-logo="https://static.filmon.com/assets/channels/2615/extra_big_logo.png" ,Rotana Cinema HD
@@ -73,16 +103,26 @@ https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398
 https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_7.m3u8
 #EXTINF:0 group-title="Movies" tvg-name="Rotana+ HD" tvg-logo="https://i.ibb.co/0YgT5BZ/237-rotana-1.jpg" ,Rotana+ HD
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_7.m3u8
+#EXTINF:0 group-title="Movies" tvg-name="Roya TV" tvg-logo="https://tv.taghtia.com/assets/channels/roya-tv.png" ,Roya TV
+https://tv.taghtia.com/serve/youtube/roya-tv
+#EXTINF:0 group-title="Movies" tvg-name="Sharjah TV" tvg-logo="https://tv.taghtia.com/assets/channels/sharjah-tv.png" ,Sharjah TV
+https://svs.itworkscdn.net/smc1live/smc1.smil/smc1tv_360p_chunks.m3u8
+#EXTINF:0 group-title="Movies" tvg-name="Sharjah TV 2" tvg-logo="https://tv.taghtia.com/assets/channels/sharjah-tv-2.png" ,Sharjah TV 2
+https://svs.itworkscdn.net/smc2live/smc2tv.smil/smc2tv_360p_chunks.m3u8
+#EXTINF:0 group-title="News" tvg-name="Sky News Arabia" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/51O3GG0etzL.png" ,Sky News Arabia
+https://stream.skynewsarabia.com/hls/sna_360.m3u8
 #EXTINF:0 group-title="Kids" tvg-name="Spacetoon" tvg-logo="https://i.imgur.com/RzPOwqI.png" ,Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w1322169554_b946000_slAR.m3u8
-#EXTINF:0 group-title="Movies" tvg-name="1-2-3.TV HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/123tv_hd.png" ,1-2-3.TV HD
-rtsp://192.168.178.1:554/?avm=1&freq=242&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,258,523,524,528,1561
-#EXTINF:0 group-title="Movies" tvg-name="3sat HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/3sat_hd.png" ,3sat HD
-rtsp://192.168.178.1:554/?avm=1&freq=202&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,261,553,554,555,556,557,558,1641,1651
-#EXTINF:0 group-title="Movies" tvg-name="ARD-alpha HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/ard-alpha_hd.png" ,ARD-alpha HD
-rtsp://192.168.178.1:554/?avm=1&freq=202&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,262,563,564,565,566,568,1671,1681,1682,1683
-#EXTINF:0 group-title="Movies" tvg-name="arte HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/arte_hd.png" ,arte HD
-rtsp://192.168.178.1:554/?avm=1&freq=114&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,257,513,514,515,518,1521,1522,1531
+#EXTINF:0 group-title="Movies" tvg-name="Wanasah" tvg-logo="https://tv.taghtia.com/assets/channels/wanasah.png" ,Wanasah
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_5.m3u8
+#EXTINF:0 group-title="Movies" tvg-name="1-2-3.TV" tvg-logo="https://tv.avm.de/tvapp/logos/hd/123tv_hd.png" ,1-2-3.TV
+rtsp://192.168.178.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,259,533,534,538,1591
+#EXTINF:0 group-title="Movies" tvg-name="3sat" tvg-logo="https://tv.avm.de/tvapp/logos/hd/3sat_hd.png" ,3sat
+rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,200,210,220,221,222,225,230,231,250
+#EXTINF:0 group-title="Movies" tvg-name="ARD-alpha" tvg-logo="https://tv.avm.de/tvapp/logos/hd/ard-alpha_hd.png" ,ARD-alpha
+rtsp://192.168.178.1:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,1400,1401,1402,1403,1404,1405,1406,1470,1476,2174
+#EXTINF:0 group-title="Movies" tvg-name="arte" tvg-logo="https://tv.avm.de/tvapp/logos/hd/arte_hd.png" ,arte
+rtsp://192.168.178.1:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,400,401,402,403,404,407,408,470,1276,2171
 #EXTINF:0 group-title="Movies" tvg-name="Astro TV" tvg-logo="https://tv.avm.de/tvapp/logos/astro_tv.png" ,Astro TV
 rtsp://192.168.178.1:554/?avm=1&freq=298&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,268,623,624
 #EXTINF:0 group-title="Movies" tvg-name="BBC World News" tvg-logo="https://tv.avm.de/tvapp/logos/bbc_world_news.png" ,BBC World News
@@ -95,15 +135,15 @@ rtsp://192.168.178.1:554/?avm=1&freq=274&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 rtsp://192.168.178.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,261,553,554
 #EXTINF:0 group-title="Movies" tvg-name="COMEDY CENTRAL" tvg-logo="https://tv.avm.de/tvapp/logos/comedy_central.png" ,COMEDY CENTRAL
 rtsp://192.168.178.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,257,513,514,518,1531
-#EXTINF:0 group-title="Movies" tvg-name="Das Erste HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/das_erste_hd.png" ,Das Erste HD
-rtsp://192.168.178.1:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,6000,6010,1176,2172,2173,5108,6020,6021,6022,6030,6031,6070
+#EXTINF:0 group-title="Movies" tvg-name="Das Erste" tvg-logo="https://tv.avm.de/tvapp/logos/hd/das_erste_hd.png" ,Das Erste
+rtsp://192.168.178.1:554/?avm=1&freq=314&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,84,102,103,104,105,106,1176,2070,2171
 #EXTINF:0 group-title="Movies" tvg-name="Deutsches Musik Fer" tvg-logo="https://tv.avm.de/tvapp/logos/deutsches_musik_fer.png" ,Deutsches Musik Fer
 rtsp://192.168.178.1:554/?avm=1&freq=266&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,269,633,634,638
 #EXTINF:0 group-title="Movies" tvg-name="Disney" tvg-logo="https://tv.avm.de/tvapp/logos/disney.png" ,Disney
 rtsp://192.168.178.1:554/?avm=1&freq=210&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,263,573,574,578
 #EXTINF:0 group-title="Movies" tvg-name="DMAX" tvg-logo="https://tv.avm.de/tvapp/logos/dmax.png" ,DMAX
 rtsp://192.168.178.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,260,543,544,548,1621
-#EXTINF:0 group-title="Movies" tvg-name="euronews (D)" tvg-logo="https://tv.avm.de/tvapp/logos/euronews.png" ,euronews (D)
+#EXTINF:0 group-title="Movies" tvg-name="euronews" tvg-logo="https://tv.avm.de/tvapp/logos/euronews.png" ,euronews
 rtsp://192.168.178.1:554/?avm=1&freq=290&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,275,633,694
 #EXTINF:0 group-title="Movies" tvg-name="EUROSPORT 1" tvg-logo="https://tv.avm.de/tvapp/logos/eurosport_1.png" ,EUROSPORT 1
 rtsp://192.168.178.1:554/?avm=1&freq=218&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,264,583,584,588
@@ -111,8 +151,8 @@ rtsp://192.168.178.1:554/?avm=1&freq=218&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,263,573,574,578,1711
 #EXTINF:0 group-title="Movies" tvg-name="kabel eins Doku" tvg-logo="https://tv.avm.de/tvapp/logos/kabel_eins_doku.png" ,kabel eins Doku
 rtsp://192.168.178.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,271,653,654,658,1951
-#EXTINF:0 group-title="Movies" tvg-name="KiKA HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/kika_hd.png" ,KiKA HD
-rtsp://192.168.178.1:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,260,543,544,545,546,548,1611,1621
+#EXTINF:0 group-title="Movies" tvg-name="KiKA" tvg-logo="https://tv.avm.de/tvapp/logos/hd/kika_hd.png" ,KiKA
+rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,300,310,320,321,325,330,331,350
 #EXTINF:0 group-title="Movies" tvg-name="MTV" tvg-logo="https://tv.avm.de/tvapp/logos/mtv.png" ,MTV
 rtsp://192.168.178.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,263,573,574,575,578,1711
 #EXTINF:0 group-title="Movies" tvg-name="N24 Doku" tvg-logo="https://tv.avm.de/tvapp/logos/n24_doku.png" ,N24 Doku
@@ -123,10 +163,10 @@ rtsp://192.168.178.1:554/?avm=1&freq=226&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 rtsp://192.168.178.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,267,613,614,618,1821,1831,1832,1833
 #EXTINF:0 group-title="Movies" tvg-name="ntv" tvg-logo="https://tv.avm.de/tvapp/logos/ntv.png" ,ntv
 rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,266,593,594,595,598,1801,1802,1803
-#EXTINF:0 group-title="Movies" tvg-name="ONE HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/one_hd.png" ,ONE HD
-rtsp://192.168.178.1:554/?avm=1&freq=210&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,261,553,554,555,556,558,1641,1651,1652,1653
-#EXTINF:0 group-title="Movies" tvg-name="phoenix HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/phoenix_hd.png" ,phoenix HD
-rtsp://192.168.178.1:554/?avm=1&freq=114&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,261,553,554,555,558,1651,1652
+#EXTINF:0 group-title="Movies" tvg-name="ONE" tvg-logo="https://tv.avm.de/tvapp/logos/hd/one_hd.png" ,ONE
+rtsp://192.168.178.1:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,200,201,202,203,204,206,270,276,2171
+#EXTINF:0 group-title="Movies" tvg-name="phoenix" tvg-logo="https://tv.avm.de/tvapp/logos/hd/phoenix_hd.png" ,phoenix
+rtsp://192.168.178.1:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,500,501,502,503,504,570,576
 #EXTINF:0 group-title="Movies" tvg-name="ProSieben" tvg-logo="https://tv.avm.de/tvapp/logos/prosieben.png" ,ProSieben
 rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,260,543,544,546,548,1621
 #EXTINF:0 group-title="Movies" tvg-name="ProSieben MAXX" tvg-logo="https://tv.avm.de/tvapp/logos/prosieben_maxx.png" ,ProSieben MAXX
@@ -149,8 +189,8 @@ rtsp://192.168.178.1:554/?avm=1&freq=170&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 rtsp://192.168.178.1:554/?avm=1&freq=218&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,266,603,604,608,1801
 #EXTINF:0 group-title="Movies" tvg-name="Super RTL" tvg-logo="https://tv.avm.de/tvapp/logos/super_rtl.png" ,Super RTL
 rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,265,583,584,588,1761,1771,1772,1773
-#EXTINF:0 group-title="Movies" tvg-name="tagesschau24 HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/tagesschau24_hd.png" ,tagesschau24 HD
-rtsp://192.168.178.1:554/?avm=1&freq=250&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,260,543,544,545,546,548,1621,1622,1623,4072
+#EXTINF:0 group-title="Movies" tvg-name="tagesschau24" tvg-logo="https://tv.avm.de/tvapp/logos/hd/tagesschau24_hd.png" ,tagesschau24
+rtsp://192.168.178.1:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,102,104,170,176,2171
 #EXTINF:0 group-title="Movies" tvg-name="Tele 5" tvg-logo="https://tv.avm.de/tvapp/logos/tele_5.png" ,Tele 5
 rtsp://192.168.178.1:554/?avm=1&freq=218&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,268,623,624,628
 #EXTINF:0 group-title="Movies" tvg-name="TLC" tvg-logo="https://tv.avm.de/tvapp/logos/tlc.png" ,TLC
@@ -163,9 +203,9 @@ rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 rtsp://192.168.178.1:554/?avm=1&freq=290&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,276,703,704,708,2101,2102,2103
 #EXTINF:0 group-title="Movies" tvg-name="WELT" tvg-logo="https://www.welt.de/assets/images/global/welt_brand-dd869f0cab.png" ,WELT
 rtsp://192.168.178.1:554/?avm=1&freq=218&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,267,613,614,618
-#EXTINF:0 group-title="Movies" tvg-name="ZDF HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/zdf_hd.png" ,ZDF HD
-rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,6100,6110,6120,6121,6122,6123,6130,6131,6170
-#EXTINF:0 group-title="Movies" tvg-name="ZDF_neo HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/zdf_neo_hd.png" ,ZDF neo HD
-rtsp://192.168.178.1:554/?avm=1&freq=194&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,261,553,554,555,556,557,558,1641,1651
-#EXTINF:0 group-title="Movies" tvg-name="ZDFinfo HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/zdfinfo_hd.png" ,ZDF info HD
-rtsp://192.168.178.1:554/?avm=1&freq=218&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,262,563,564,565,566,567,568,1671,1681
+#EXTINF:0 group-title="Movies" tvg-name="ZDF" tvg-logo="https://tv.avm.de/tvapp/logos/hd/zdf_hd.png" ,ZDF
+rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,110,120,121,122,125,130,131,950
+#EXTINF:0 group-title="Movies" tvg-name="ZDF neo" tvg-logo="https://tv.avm.de/tvapp/logos/hd/zdf_neo_hd.png" ,ZDF neo
+rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,650,660,670,671,672,675,680,681,690
+#EXTINF:0 group-title="Movies" tvg-name="ZDF info" tvg-logo="https://tv.avm.de/tvapp/logos/hd/zdfinfo_hd.png" ,ZDF info
+rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,600,610,620,621,622,625,630,631,640
