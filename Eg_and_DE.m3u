@@ -6,7 +6,7 @@ https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b450000_t6
 #EXTINF:0 group-title="Movies" tvg-name="AD Sports 1" tvg-logo="https://tv.taghtia.com/assets/channels/ad-sports-1.png" ,AD Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
 #EXTINF:0 group-title="Religion" tvg-name="Aghapy tv" tvg-logo="https://www.freeetv.com/images/01_logo/aghapy_tv.jpg" ,Aghapy tv
-https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/chunklist_w768730167_b1400000_slar_t64SEQ=.m3u8
+https://5a8308add0b31.streamlock.net/aghapy.tv/aghapy.smil/chunklist_w1486109483_b1400000_slar_t64SEQ=.m3u8
 #EXTINF:0 group-title="Movies" tvg-name="al hayat tv" tvg-logo="https://www.freeetv.com/images/01_logo/aghapy_tv.jpg" ,al hayat tv
 https://wowzaprod140-i.akamaihd.net/hls/live/750788/7552102e/7552102e_1_1000000/chunklist.m3u8
 #EXTINF:0 group-title="Religion" tvg-name="al horreya" tvg-logo="https://alhorreya.org/images/alhorreya-logo_new.png" ,al horreya
@@ -24,11 +24,11 @@ https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaNA2.smil/chunklist_w99
 #EXTINF:0 group-title="Religion" tvg-name="ALKARMA TV MIDDLE EAST" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alkarma-tv-middle-east-us.png" ,ALKARMA TV MIDDLE EAST
 https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame1.smil/chunklist_w1660557871_b2328000_slar.m3u8
 #EXTINF:0 group-title="Movies" tvg-name="Alkass One" tvg-logo="https://tv.taghtia.com/assets/channels/alkass-one.png" ,Alkass One
-https://alkasmsl4.akamaized.net/hls/live/2003123/Alkas1baz/hdntl=exp=1637786972~acl=%2f*~data=hdntl~hmac=0c500d1da14e4cfcc33e942e08d88eaa64563d4888fc1ce1a738c3f33d370cb7/master360.m3u8
+https://streamalkasscustom.azureedge.net/livehttporigin/smil:alkass1a.smil/chunklist_b2065536_sleng.m3u8
 #EXTINF:0 group-title="News" tvg-name="BBC Arabic Live" tvg-logo="https://www.arm-tv.com/wp-content/uploads/2020/01/bbc-news-tv-logo-1.png" ,BBC Arabic Live
 https://www.youtube.com/watch?v=HxI2TxhhS9A
 #EXTINF:0 group-title="Movies" tvg-name="Bee Movies" tvg-logo="https://i.ibb.co/qNFVQf6/Bee-Movies.jpg" ,Bee Movies
-https://www.youtube.com/watch?v=hbcl_sR5w1M
+https://www.youTube.com/channel/UCuaMJTqQ_W7qztqZ_zyErJg/live
 #EXTINF:0 group-title="Kids" tvg-name="Cartoon Network Arabic" tvg-logo="https://i.ibb.co/Ln2wdn7/cartoon-network-logo.jpg" ,Cartoon Network Arabic
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_6.m3u8
 #EXTINF:0 group-title="Movies" tvg-name="CBC" tvg-logo="https://i.ibb.co/Z1JGP0Z/cbc.png" ,CBC
@@ -60,17 +60,17 @@ https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/in
 #EXTINF:0 group-title="Religion" tvg-name="Logos tv" tvg-logo="https://i.ibb.co/4t2nZyX/Logos-TV.png" ,Logos tv
 https://58cc65c534c67.streamlock.net/logoschannel.com/logostv.smil/chunklist_w1133150625_b2928000_slar.m3u8
 #EXTINF:0 group-title="Movies" tvg-name="MBC" tvg-logo="https://i.imgur.com/eKBXOKd.png" ,MBC
-https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_4.m3u8
+https://2d02.janjua.pw:8088/adfree/mbcccnc_1111111/playlist.m3u8?vidictid=190013429966&id=106085&pk=1a10469903d5fac45686259bdc6c9b6cfa7281c730d8043f48819337d42d154d
 #EXTINF:0 group-title="Movies" tvg-name="MBC 2" tvg-logo="https://i.imgur.com/KXuzL1u.png" ,MBC 2
-http://163.172.28.43:9090/stream/6861509/96e703d47233d2b578168498483af32c/6406-.m3u8
+https://2d03lw.janjua.pw:8088/adfree/mbcccnc_222222/playlist.m3u8?vidictid=190015709585&id=106086&pk=1a10469903d5fac45686259bdc6c9b6cfa7281c730d8043f48819337d42d154d
 #EXTINF:0 group-title="Movies" tvg-name="MBC 3" tvg-logo="https://i.imgur.com/FVNVC73.png" ,MBC 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_7.m3u8
 #EXTINF:0 group-title="Movies" tvg-name="MBC 4" tvg-logo="https://i.imgur.com/pfF61uH.png" ,MBC 4
-https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_7.m3u8
+https://2d02.janjua.pw:8088/adfree/m3444444nnw_Wwss/playlist.m3u8?vidictid=190015916638&id=106237&pk=1a10469903d5fac45686259bdc6c9b6cfa7281c730d8043f48819337d42d154d
 #EXTINF:0 group-title="Movies" tvg-name="MBC 5" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" ,MBC 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_7.m3u8
 #EXTINF:0 group-title="Movies" tvg-name="MBC Bollywood" tvg-logo="https://i.imgur.com/fMjhK06.png" ,MBC Bollywood
-https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8?checkedby:iptvcat.com
+https://2202lw.janjua.pw:8088/adfree/mbcccnc_bbbbbb/playlist.m3u8?vidictid=190015453405&id=106087&pk=1a10469903d5fac45686259bdc6c9b6cfa7281c730d8043f48819337d42d154d
 #EXTINF:0 group-title="Movies" tvg-name="MBC Drama" tvg-logo="https://www.parsatv.com/index_files/channels/mbcdrama.png" ,MBC Drama
 https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_4.m3u8
 #EXTINF:0 group-title="Movies" tvg-name="MBC Drama+" tvg-logo="https://media.elcinema.com/tvguide/1131_1.png" ,MBC Drama+
@@ -83,6 +83,8 @@ https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/i
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 group-title="Movies" tvg-logo="https://tv.taghtia.com/assets/channels/mbc-masr-2.png" ,MBC Masr 2
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_9.m3u8
+#EXTINF:0 group-title="Movies" tvg-name="MBC Max" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/MBC_Max_TV_Channel_Logo.png" ,MBC Max
+http://93.184.1.247/MBC_MAX/index.m3u8
 #EXTINF:0 group-title="Religion" tvg-name="MESat" tvg-logo="https://i.ytimg.com/vi/Usnyv81KqX4/maxresdefault.jpg" ,MESat
 https://www.youtube.com/watch?v=aVtAQJ5h_Kg
 #EXTINF:0 group-title="Movies" tvg-name="National Geographic Abu Dhabi" tvg-logo="https://tv.taghtia.com/assets/channels/national-geographic-abu-dhabi.png" ,National Geographic Abu Dhabi
