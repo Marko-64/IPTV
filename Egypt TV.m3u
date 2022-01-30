@@ -83,6 +83,8 @@ https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/i
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 group-title="Movies" tvg-logo="https://tv.taghtia.com/assets/channels/mbc-masr-2.png" ,MBC Masr 2
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_9.m3u8
+#EXTINF:0 group-title="Movies" tvg-name="MBC Max" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/MBC_Max_TV_Channel_Logo.png" ,MBC Max
+http://93.184.1.247/MBC_MAX/index.m3u8
 #EXTINF:0 group-title="Religion" tvg-name="MESat" tvg-logo="https://i.ytimg.com/vi/Usnyv81KqX4/maxresdefault.jpg" ,MESat
 https://www.youtube.com/watch?v=aVtAQJ5h_Kg
 #EXTINF:0 group-title="Movies" tvg-name="National Geographic Abu Dhabi" tvg-logo="https://tv.taghtia.com/assets/channels/national-geographic-abu-dhabi.png" ,National Geographic Abu Dhabi
@@ -115,5 +117,3 @@ https://stream.skynewsarabia.com/hls/sna_360.m3u8
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w1322169554_b946000_slAR.m3u8
 #EXTINF:0 group-title="Movies" tvg-name="Wanasah" tvg-logo="https://tv.taghtia.com/assets/channels/wanasah.png" ,Wanasah
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_5.m3u8
-#EXTINF:0 group-title="Movies" tvg-name="MBC Max" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/MBC_Max_TV_Channel_Logo.png" ,MBC Max
-http://93.184.1.247/MBC_MAX/index.m3u8
