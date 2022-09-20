@@ -1,95 +1,91 @@
 #EXTM3U
 #EXTINF:0 group-title="Movies" tvg-name="1-2-3.TV" tvg-logo="https://tv.avm.de/tvapp/logos/hd/123tv_hd.png" ,1-2-3.TV
-rtsp://192.168.178.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,259,533,534,538,1591
+rtsp://192.168.179.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,259,533,534,538,1591
 #EXTINF:0 group-title="Movies" tvg-name="3sat" tvg-logo="https://tv.avm.de/tvapp/logos/hd/3sat_hd.png" ,3sat
-rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,200,210,220,221,222,225,230,231,250
-#EXTINF:0 group-title="Movies" tvg-name="ARD-alpha" tvg-logo="https://tv.avm.de/tvapp/logos/hd/ard-alpha_hd.png" ,ARD-alpha
-rtsp://192.168.178.1:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,1400,1401,1402,1403,1404,1405,1406,1470,1476,2174
+rtsp://192.168.179.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,200,210,220,221,222,225,230,231,250
 #EXTINF:0 group-title="Movies" tvg-name="arte" tvg-logo="https://tv.avm.de/tvapp/logos/hd/arte_hd.png" ,arte
-rtsp://192.168.178.1:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,400,401,402,403,404,407,408,470,1276,2171
+rtsp://192.168.179.1:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,400,401,402,403,404,407,408,470,1276,2171
 #EXTINF:0 group-title="Movies" tvg-name="Astro TV" tvg-logo="https://tv.avm.de/tvapp/logos/astro_tv.png" ,Astro TV
-rtsp://192.168.178.1:554/?avm=1&freq=298&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,268,623,624
+rtsp://192.168.179.1:554/?avm=1&freq=298&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,268,623,624
 #EXTINF:0 group-title="Movies" tvg-name="BBC World News" tvg-logo="https://tv.avm.de/tvapp/logos/bbc_world_news.png" ,BBC World News
-rtsp://192.168.178.1:554/?avm=1&freq=210&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,264,583,584
+rtsp://192.168.179.1:554/?avm=1&freq=210&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,264,583,584
 #EXTINF:0 group-title="Movies" tvg-name="Channel21" tvg-logo="https://tv.avm.de/tvapp/logos/channel21.png" ,Channel21
-rtsp://192.168.178.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,258,523,524,528
+rtsp://192.168.179.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,258,523,524,528
 #EXTINF:0 group-title="Movies" tvg-name="CNBC" tvg-logo="https://tv.avm.de/tvapp/logos/cnbc.png" ,CNBC
-rtsp://192.168.178.1:554/?avm=1&freq=274&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,259,533,534
+rtsp://192.168.179.1:554/?avm=1&freq=274&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,259,533,534
 #EXTINF:0 group-title="Movies" tvg-name="CNN" tvg-logo="https://tv.avm.de/tvapp/logos/cnn.png" ,CNN
-rtsp://192.168.178.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,261,553,554
+rtsp://192.168.179.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,261,553,554
 #EXTINF:0 group-title="Movies" tvg-name="COMEDY CENTRAL" tvg-logo="https://tv.avm.de/tvapp/logos/comedy_central.png" ,COMEDY CENTRAL
-rtsp://192.168.178.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,257,513,514,518,1531
+rtsp://192.168.179.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,257,513,514,518,1531
 #EXTINF:0 group-title="Movies" tvg-name="Das Erste" tvg-logo="https://tv.avm.de/tvapp/logos/hd/das_erste_hd.png" ,Das Erste
-rtsp://192.168.178.1:554/?avm=1&freq=314&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,84,102,103,104,105,106,1176,2070,2171
+rtsp://192.168.179.1:554/?avm=1&freq=314&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,84,102,103,104,105,106,1176,2070,2171
 #EXTINF:0 group-title="Movies" tvg-name="Deutsches Musik Fer" tvg-logo="https://tv.avm.de/tvapp/logos/deutsches_musik_fer.png" ,Deutsches Musik Fer
-rtsp://192.168.178.1:554/?avm=1&freq=266&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,269,633,634,638
+rtsp://192.168.179.1:554/?avm=1&freq=266&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,269,633,634,638
 #EXTINF:0 group-title="Movies" tvg-name="Disney" tvg-logo="https://tv.avm.de/tvapp/logos/disney.png" ,Disney
-rtsp://192.168.178.1:554/?avm=1&freq=210&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,263,573,574,578
+rtsp://192.168.179.1:554/?avm=1&freq=210&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,263,573,574,578
 #EXTINF:0 group-title="Movies" tvg-name="DMAX" tvg-logo="https://tv.avm.de/tvapp/logos/dmax.png" ,DMAX
-rtsp://192.168.178.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,260,543,544,548,1621
+rtsp://192.168.179.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,260,543,544,548,1621
 #EXTINF:0 group-title="Movies" tvg-name="euronews" tvg-logo="https://tv.avm.de/tvapp/logos/euronews.png" ,euronews
-rtsp://192.168.178.1:554/?avm=1&freq=290&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,275,633,694
+rtsp://192.168.179.1:554/?avm=1&freq=290&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,275,633,694
 #EXTINF:0 group-title="Movies" tvg-name="EUROSPORT 1" tvg-logo="https://tv.avm.de/tvapp/logos/eurosport_1.png" ,EUROSPORT 1
-rtsp://192.168.178.1:554/?avm=1&freq=218&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,264,583,584,588
+rtsp://192.168.179.1:554/?avm=1&freq=218&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,264,583,584,588
 #EXTINF:0 group-title="Movies" tvg-name="kabel eins" tvg-logo="https://tv.avm.de/tvapp/logos/kabel_eins.png" ,kabel eins
-rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,263,573,574,578,1711
+rtsp://192.168.179.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,263,573,574,578,1711
 #EXTINF:0 group-title="Movies" tvg-name="kabel eins Doku" tvg-logo="https://tv.avm.de/tvapp/logos/kabel_eins_doku.png" ,kabel eins Doku
-rtsp://192.168.178.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,271,653,654,658,1951
+rtsp://192.168.179.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,271,653,654,658,1951
 #EXTINF:0 group-title="Movies" tvg-name="KiKA" tvg-logo="https://tv.avm.de/tvapp/logos/hd/kika_hd.png" ,KiKA
-rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,300,310,320,321,325,330,331,350
+rtsp://192.168.179.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,300,310,320,321,325,330,331,350
 #EXTINF:0 group-title="Movies" tvg-name="MTV" tvg-logo="https://tv.avm.de/tvapp/logos/mtv.png" ,MTV
-rtsp://192.168.178.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,263,573,574,575,578,1711
+rtsp://192.168.179.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,263,573,574,575,578,1711
 #EXTINF:0 group-title="Movies" tvg-name="N24 Doku" tvg-logo="https://tv.avm.de/tvapp/logos/n24_doku.png" ,N24 Doku
-rtsp://192.168.178.1:554/?avm=1&freq=266&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,271,653,654,658
+rtsp://192.168.179.1:554/?avm=1&freq=266&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,271,653,654,658
 #EXTINF:0 group-title="Movies" tvg-name="Nickelodeon" tvg-logo="https://tv.avm.de/tvapp/logos/nickelodeon.png" ,Nickelodeon
-rtsp://192.168.178.1:554/?avm=1&freq=226&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,265,593,594,595,598,1771
+rtsp://192.168.179.1:554/?avm=1&freq=226&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,265,593,594,595,598,1771
 #EXTINF:0 group-title="Movies" tvg-name="Nitro" tvg-logo="https://tv.avm.de/tvapp/logos/nitro.png" ,Nitro
-rtsp://192.168.178.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,267,613,614,618,1821,1831,1832,1833
+rtsp://192.168.179.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,267,613,614,618,1821,1831,1832,1833
 #EXTINF:0 group-title="Movies" tvg-name="ntv" tvg-logo="https://tv.avm.de/tvapp/logos/ntv.png" ,ntv
-rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,266,593,594,595,598,1801,1802,1803
+rtsp://192.168.179.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,266,593,594,595,598,1801,1802,1803
 #EXTINF:0 group-title="Movies" tvg-name="ONE" tvg-logo="https://tv.avm.de/tvapp/logos/hd/one_hd.png" ,ONE
-rtsp://192.168.178.1:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,200,201,202,203,204,206,270,276,2171
+rtsp://192.168.179.1:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,200,201,202,203,204,206,270,276,2171
 #EXTINF:0 group-title="Movies" tvg-name="phoenix" tvg-logo="https://tv.avm.de/tvapp/logos/hd/phoenix_hd.png" ,phoenix
-rtsp://192.168.178.1:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,500,501,502,503,504,570,576
+rtsp://192.168.179.1:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,500,501,502,503,504,570,576
 #EXTINF:0 group-title="Movies" tvg-name="ProSieben" tvg-logo="https://tv.avm.de/tvapp/logos/prosieben.png" ,ProSieben
-rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,260,543,544,546,548,1621
+rtsp://192.168.179.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,260,543,544,546,548,1621
 #EXTINF:0 group-title="Movies" tvg-name="ProSieben MAXX" tvg-logo="https://tv.avm.de/tvapp/logos/prosieben_maxx.png" ,ProSieben MAXX
-rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,267,613,614,618,1831
+rtsp://192.168.179.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,267,613,614,618,1831
 #EXTINF:0 group-title="Movies" tvg-name="RTL" tvg-logo="https://tv.avm.de/tvapp/logos/rtl.png" ,RTL
-rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,258,523,524,525,528,1551,1561,1562,1563
+rtsp://192.168.179.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,258,523,524,525,528,1551,1561,1562,1563
 #EXTINF:0 group-title="Movies" tvg-name="RTLplus" tvg-logo="https://tv.avm.de/tvapp/logos/rtlplus.png" ,RTLplus
-rtsp://192.168.178.1:554/?avm=1&freq=266&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,259,533,534,538,1591,1592,1593
+rtsp://192.168.179.1:554/?avm=1&freq=266&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,259,533,534,538,1591,1592,1593
 #EXTINF:0 group-title="Movies" tvg-name="RTLZWEI" tvg-logo="https://tv.avm.de/tvapp/logos/rtlzwei.png" ,RTLZWEI
-rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,262,563,564,568,1671,1681,1682,1683
+rtsp://192.168.179.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,262,563,564,568,1671,1681,1682,1683
 #EXTINF:0 group-title="Movies" tvg-name="SAT.1" tvg-logo="https://tv.avm.de/tvapp/logos/sat.1.png" ,SAT.1
-rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,259,533,534,536,538,1591
+rtsp://192.168.179.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,259,533,534,536,538,1591
 #EXTINF:0 group-title="Movies" tvg-name="SAT.1 GOLD" tvg-logo="https://tv.avm.de/tvapp/logos/sat.1_gold.png" ,SAT.1 GOLD
-rtsp://192.168.178.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,266,603,604,608,1801
+rtsp://192.168.179.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,266,603,604,608,1801
 #EXTINF:0 group-title="Movies" tvg-name="SIXX" tvg-logo="https://tv.avm.de/tvapp/logos/sixx.png" ,SIXX
-rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,268,623,624,628,1861
-#EXTINF:0 group-title="Movies" tvg-name="Sky Sport News HD" tvg-logo="https://tv.avm.de/tvapp/logos/hd/sky_sport_news_hd.png" ,Sky Sport News HD
-rtsp://192.168.178.1:554/?avm=1&freq=170&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,99,1023,1027
+rtsp://192.168.179.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,268,623,624,628,1861
 #EXTINF:0 group-title="Movies" tvg-name="SPORT1" tvg-logo="https://tv.avm.de/tvapp/logos/sport1.png" ,SPORT1
-rtsp://192.168.178.1:554/?avm=1&freq=218&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,266,603,604,608,1801
+rtsp://192.168.179.1:554/?avm=1&freq=218&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,266,603,604,608,1801
 #EXTINF:0 group-title="Movies" tvg-name="Super RTL" tvg-logo="https://tv.avm.de/tvapp/logos/super_rtl.png" ,Super RTL
-rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,265,583,584,588,1761,1771,1772,1773
+rtsp://192.168.179.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,265,583,584,588,1761,1771,1772,1773
 #EXTINF:0 group-title="Movies" tvg-name="tagesschau24" tvg-logo="https://tv.avm.de/tvapp/logos/hd/tagesschau24_hd.png" ,tagesschau24
-rtsp://192.168.178.1:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,102,104,170,176,2171
+rtsp://192.168.179.1:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,102,104,170,176,2171
 #EXTINF:0 group-title="Movies" tvg-name="Tele 5" tvg-logo="https://tv.avm.de/tvapp/logos/tele_5.png" ,Tele 5
-rtsp://192.168.178.1:554/?avm=1&freq=218&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,268,623,624,628
+rtsp://192.168.179.1:554/?avm=1&freq=218&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,268,623,624,628
 #EXTINF:0 group-title="Movies" tvg-name="TLC" tvg-logo="https://tv.avm.de/tvapp/logos/tlc.png" ,TLC
-rtsp://192.168.178.1:554/?avm=1&freq=186&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,274,683,684,688,2041
+rtsp://192.168.179.1:554/?avm=1&freq=186&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,274,683,684,688,2041
 #EXTINF:0 group-title="Movies" tvg-name="TOGGO plus" tvg-logo="https://tv.avm.de/tvapp/logos/toggo_plus.png" ,TOGGO plus
-rtsp://192.168.178.1:554/?avm=1&freq=346&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,261,553,554,558,1651
+rtsp://192.168.179.1:554/?avm=1&freq=346&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,261,553,554,558,1651
 #EXTINF:0 group-title="Movies" tvg-name="VOX" tvg-logo="https://tv.avm.de/tvapp/logos/vox.png" ,VOX
-rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,261,553,554,558,1641,1651,1652,1653
+rtsp://192.168.179.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,261,553,554,558,1641,1651,1652,1653
 #EXTINF:0 group-title="Movies" tvg-name="VOXup" tvg-logo="https://images.mediabiz.de/s/das-logo-des-neuen-senders-voxup/newspics/959/445959_1/b2780x1450.jpg" ,VOXup
-rtsp://192.168.178.1:554/?avm=1&freq=290&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,276,703,704,708,2101,2102,2103
+rtsp://192.168.179.1:554/?avm=1&freq=290&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,276,703,704,708,2101,2102,2103
 #EXTINF:0 group-title="Movies" tvg-name="WELT" tvg-logo="https://www.welt.de/assets/images/global/welt_brand-dd869f0cab.png" ,WELT
-rtsp://192.168.178.1:554/?avm=1&freq=218&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,267,613,614,618
+rtsp://192.168.179.1:554/?avm=1&freq=218&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,267,613,614,618
 #EXTINF:0 group-title="Movies" tvg-name="ZDF" tvg-logo="https://tv.avm.de/tvapp/logos/hd/zdf_hd.png" ,ZDF
-rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,110,120,121,122,125,130,131,950
+rtsp://192.168.179.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,110,120,121,122,125,130,131,950
 #EXTINF:0 group-title="Movies" tvg-name="ZDF neo" tvg-logo="https://tv.avm.de/tvapp/logos/hd/zdf_neo_hd.png" ,ZDF neo
-rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,650,660,670,671,672,675,680,681,690
+rtsp://192.168.179.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,650,660,670,671,672,675,680,681,690
 #EXTINF:0 group-title="Movies" tvg-name="ZDF info" tvg-logo="https://tv.avm.de/tvapp/logos/hd/zdfinfo_hd.png" ,ZDF info
-rtsp://192.168.178.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,600,610,620,621,622,625,630,631,640
+rtsp://192.168.179.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,600,610,620,621,622,625,630,631,640
